@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- torso for animals -->
+
+  <Body.label>Telo</Body.label>
+  <Beak.label>Kljun</Beak.label>
+  <InsectHead.label>glava</InsectHead.label>
+  <SnakeBody.label>telo</SnakeBody.label>
+  <SnakeHead.label>glava</SnakeHead.label>
+  <SnakeMouth.label>usta</SnakeMouth.label>
+  <InsectHeart.label>srce</InsectHeart.label>
+  <InsectNostril.label>nozdrva</InsectNostril.label>
+  <InsectMouth.label>usta</InsectMouth.label>
+  <Jowl.label>obraz</Jowl.label>
+  <Tail.label>rep</Tail.label>
+  <LeftAntenna.label>leva antena</LeftAntenna.label>
+  <RightAntenna.label>desna antena</RightAntenna.label>
+  <Pronotum.label>pronotum</Pronotum.label>
+  <Shell.label>oklop</Shell.label>
+  <LeftElytra.label>levo krilo</LeftElytra.label>
+  <RightElytra.label>desno krilo</RightElytra.label>
+  <LeftTusk.label>leva kljova</LeftTusk.label>
+  <RightTusk.label>desna kljova</RightTusk.label>
+  <Trunk.label>surla</Trunk.label>
+  <Horn.label>rog</Horn.label>
+  <HeadClaw.label>glava-kandža</HeadClaw.label>
+  <Hump.label>grba</Hump.label>
+  <TurtleShell.label>oklop</TurtleShell.label>
+  <Plastron.label>plastron</Plastron.label>
+  <TurtleBeak.label>kljun</TurtleBeak.label>
+
+  <!-- animals legs -->
+
+  <FrontLeftLeg.label>prednja leva noga</FrontLeftLeg.label>
+  <FrontRightLeg.label>prednja desna noga</FrontRightLeg.label>
+  <MiddleLeftLeg.label>srednja leva noga</MiddleLeftLeg.label>
+  <MiddleRightLeg.label>srednja desna noga</MiddleRightLeg.label>
+  <RearLeftLeg.label>zadnja leva noga</RearLeftLeg.label>
+  <RearRightLeg.label>zadnja desna noga</RearRightLeg.label>
+
+  <FrontLeftInsectLeg.label>prednja leva noga</FrontLeftInsectLeg.label>
+  <FrontRightInsectLeg.label>prednja desna noga</FrontRightInsectLeg.label>
+  <MiddleLeftInsectLeg.label>srednja leva noga</MiddleLeftInsectLeg.label>
+  <MiddleRightInsectLeg.label>srednja desna noga</MiddleRightInsectLeg.label>
+  <RearLeftInsectLeg.label>zadnja leva noga</RearLeftInsectLeg.label>
+  <RearRightInsectLeg.label>zadnja desna noga</RearRightInsectLeg.label>
+
+  <FrontLeftPaw.label>prednja leva šapa</FrontLeftPaw.label>
+  <FrontRightPaw.label>prednja desna šapa</FrontRightPaw.label>
+  <RearLeftPaw.label>zadnja leva šapa</RearLeftPaw.label>
+  <RearRightPaw.label>zadnja desna šapa</RearRightPaw.label>
+  <FrontLeftHoof.label>prednja levo kopito</FrontLeftHoof.label>
+  <FrontRightHoof.label>Vorderer desno kopito</FrontRightHoof.label>
+  <RearLeftHoof.label>zadnje levo kopito</RearLeftHoof.label>
+  <RearRightHoof.label>zadnje desno kopito</RearRightHoof.label>
+
+  <FrontLeftLegFirstClaw.label>prednja leva noga, prva kandža</FrontLeftLegFirstClaw.label>
+  <FrontLeftLegSecondClaw.label>prednja leva noga, druga kandža</FrontLeftLegSecondClaw.label>
+  <FrontLeftLegThirdClaw.label>prednja leva noga, treća kandža</FrontLeftLegThirdClaw.label>
+  <FrontLeftLegFourthClaw.label>prednja leva noga, četvrta kandža</FrontLeftLegFourthClaw.label>
+  <FrontLeftLegFifthClaw.label>prednja leva noga, peta kandža</FrontLeftLegFifthClaw.label>
+  <FrontRightLegFirstClaw.label>prednja desna noga, prva kandža</FrontRightLegFirstClaw.label>
+  <FrontRightLegSecondClaw.label>prednja desna noga, druga kandža</FrontRightLegSecondClaw.label>
+  <FrontRightLegThirdClaw.label>prednja desna noga, treća kandža</FrontRightLegThirdClaw.label>
+  <FrontRightLegFourthClaw.label>prednja desna noga, četvrta kandža</FrontRightLegFourthClaw.label>
+  <FrontRightLegFifthClaw.label>prednja desna noga, peta kandža</FrontRightLegFifthClaw.label>
+
+  <RearLeftLegFirstClaw.label>zadnja leva noga, prva kandža</RearLeftLegFirstClaw.label>
+  <RearLeftLegSecondClaw.label>zadnja leva noga, druga kandža</RearLeftLegSecondClaw.label>
+  <RearLeftLegThirdClaw.label>zadnja leva noga, treća kandža</RearLeftLegThirdClaw.label>
+  <RearLeftLegFourthClaw.label>zadnja leva noga, četvrta kandža</RearLeftLegFourthClaw.label>
+  <RearLeftLegFifthClaw.label>zadnja leva noga, peta kandža</RearLeftLegFifthClaw.label>
+  <RearRightLegFirstClaw.label>zadnja desna noga, prva kandža</RearRightLegFirstClaw.label>
+  <RearRightLegSecondClaw.label>zadnja desna noga, druga kandža</RearRightLegSecondClaw.label>
+  <RearRightLegThirdClaw.label>zadnja desna noga, treća kandža</RearRightLegThirdClaw.label>
+  <RearRightLegFourthClaw.label>zadnja desna noga, četvrta kandža</RearRightLegFourthClaw.label>
+  <RearRightLegFifthClaw.label>zadnja desna noga, peta kandža</RearRightLegFifthClaw.label>
+
+</LanguageData>

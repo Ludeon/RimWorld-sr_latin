@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Heart.label>srce</Heart.label>
+  <LeftLung.label>levo plućno krilo</LeftLung.label>
+  <RightLung.label>desno plućno krilo</RightLung.label>
+  <LeftKidney.label>levi bubreg</LeftKidney.label>
+  <RightKidney.label>desni bubreg</RightKidney.label>
+  <Liver.label>jetra</Liver.label>
+  <Stomach.label>stomak</Stomach.label>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <QuadrupedAnimalWithPaws.label>Četvoronožna životinja</QuadrupedAnimalWithPaws.label>
+  <QuadrupedAnimalWithPawsAndTail.label>Četvoronožna životinja</QuadrupedAnimalWithPawsAndTail.label>
+  <QuadrupedAnimalWithHooves.label>Četvoronožna životinja</QuadrupedAnimalWithHooves.label>
+  <QuadrupedAnimalWithHoovesAndHump.label>Četvoronožna životinja</QuadrupedAnimalWithHoovesAndHump.label>
+  <QuadrupedAnimalWithHoovesAndTusks.label>Četvoronožna životinja</QuadrupedAnimalWithHoovesAndTusks.label>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>Četvoronožna životinja</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <QuadrupedAnimalWithHoovesAndHorn.label>Četvoronožna životinja</QuadrupedAnimalWithHoovesAndHorn.label>
+  <QuadrupedAnimalWithClawsTailAndJowl.label>Četvoronožna životinja</QuadrupedAnimalWithClawsTailAndJowl.label>
+
+  <TurtleLike.label>Kornjači sličan</TurtleLike.label>
+  <Monkey.label>Majmun</Monkey.label>
+
+</LanguageData>

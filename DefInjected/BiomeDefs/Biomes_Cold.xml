@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <BorealForest.label>SevernaŠuma</BorealForest.label>
+    <BorealForest.description>Severna šuma četinara. Uprkos jakim zimama, severne šume imaju raznovrsnu populaciju malih i velikih životinja.</BorealForest.description>
+  
+    <Tundra.label>Tundra</Tundra.label>
+    <Tundra.description>Ove uglavnom zaleđene ravnice nemaju skoro nijedno drvo i malo vegetacije. Postoji malo manjih životinja izmešanih sa velikim krdima biljoijeda u migraciji i njihovim predatorima. </Tundra.description>
+   
+    <IceSheet.label>lednik</IceSheet.label>
+    <IceSheet.description>Površina je pokrivena slojevima leda koji mogu biti kilometrima debeli. Nema pristupa zemljištu, pa nema biljaka. Jedine životinje koje se mogu ovde naći migriraju negde drugde - ili su se izgubile.</IceSheet.description>
+</LanguageData>

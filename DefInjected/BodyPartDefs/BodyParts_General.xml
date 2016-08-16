@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Head.label>glava</Head.label>
+  <Skull.label>lobanja</Skull.label>
+  <Brain.label>mozak</Brain.label>
+  <LeftEye.label>levo oko</LeftEye.label>
+  <RightEye.label>desno oko</RightEye.label>
+  <LeftEar.label>levo uvo</LeftEar.label>
+  <RightEar.label>desno uvo</RightEar.label>
+  <Nose.label>nos</Nose.label>
+  <Jaw.label>vilica</Jaw.label>
+  <Neck.label>vrat</Neck.label>
+  <Rib.label>rebro</Rib.label>
+  <Spine.label>kičma</Spine.label>
+  <LeftLeg.label>leva noga</LeftLeg.label>
+  <LeftFoot.label>levo stopalo</LeftFoot.label>
+  <RightLeg.label>desna noga</RightLeg.label>
+  <RightFoot.label>desno stopalo</RightFoot.label>
+
+</LanguageData>

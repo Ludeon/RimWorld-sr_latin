@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- base -->
+
+  <Torso.label>torzo</Torso.label>
+  <LeftShoulder.label>levo rame</LeftShoulder.label>
+  <LeftArm.label>leva ruka</LeftArm.label>
+  <LeftHand.label>leva šaka</LeftHand.label>
+  <LeftHandPinky.label>mali prst (levi)</LeftHandPinky.label>
+  <LeftHandRingFinger.label>domali prst (levi)</LeftHandRingFinger.label>
+  <LeftHandMiddleFinger.label>srednji prst (levi)</LeftHandMiddleFinger.label>
+  <LeftHandIndexFinger.label>kažiprst (levi)</LeftHandIndexFinger.label>
+  <LeftHandThumb.label>palac (levi)</LeftHandThumb.label>
+  <RightShoulder.label>desno rame</RightShoulder.label>
+  <RightArm.label>desna ruka</RightArm.label>
+  <RightHand.label>desna šaka</RightHand.label>
+  <RightHandPinky.label>mali prst (desni)</RightHandPinky.label>
+  <RightHandRingFinger.label>domali prst (desni)</RightHandRingFinger.label>
+  <RightHandMiddleFinger.label>srednji prst (desni)</RightHandMiddleFinger.label>
+  <RightHandIndexFinger.label>kažiprst (desni)</RightHandIndexFinger.label>
+  <RightHandThumb.label>palac (desni)</RightHandThumb.label>
+  <LeftFootLittleToe.label>mali nožni prst (levi)</LeftFootLittleToe.label>
+  <LeftFootFourthToe.label>četvrti nožni prst (levi)</LeftFootFourthToe.label>
+  <LeftFootMiddleToe.label>srednji nožni prst (levi)</LeftFootMiddleToe.label>
+  <LeftFootSecondToe.label>drugi nožni prst (levi)</LeftFootSecondToe.label>
+  <LeftFootBigToe.label>nožni palac (levi)</LeftFootBigToe.label>
+  <RightFootLittleToe.label>mali nožni prst (desni)</RightFootLittleToe.label>
+  <RightFootFourthToe.label>četvrti nožni prst (desni)</RightFootFourthToe.label>
+  <RightFootMiddleToe.label>srednji lnožni prst (desni)</RightFootMiddleToe.label>
+  <RightFootSecondToe.label>drugi nožni prst (desni)</RightFootSecondToe.label>
+  <RightFootBigToe.label>nožni palac (desni)</RightFootBigToe.label>
+
+  <!-- Bones -->
+
+  <LeftClavicle.label>leva klučna kost</LeftClavicle.label>
+  <RightClavicle.label>desna klučna kost</RightClavicle.label>
+  <Sternum.label>grudna kost</Sternum.label>
+  <LeftHumerus.label>levi humerus</LeftHumerus.label>
+  <RightHumerus.label>desnor humerus</RightHumerus.label>
+  <LeftRadius.label>levi radius</LeftRadius.label>
+  <RightRadius.label>desni Speiche</RightRadius.label>
+  <Pelvis.label>karlica</Pelvis.label>
+  <LeftFemur.label>leva butna kost</LeftFemur.label>
+  <RightFemur.label>desnor butna kost</RightFemur.label>
+  <LeftTibia.label>leva cevanica</LeftTibia.label>
+  <RightTibia.label>desna cevanica</RightTibia.label>
+
+</LanguageData>

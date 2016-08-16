@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AridShrubland.label>Savana</AridShrubland.label>
+  <AridShrubland.description>Bezvodna oblast, ali ne dovoljno bezvodna da postane prava pustinja. Otvorene ravnice obrasle travom i žbunjem kriju raštrkane šumarke. biljke su izdržljive i postoji umerena gustina živog sveta.</AridShrubland.description>
+
+  <Desert.label>Pustinja</Desert.label>
+  <Desert.description>Veoma suva, oblast visokih temperatura koja krije malo živoota.</Desert.description>
+
+  <ExtremeDesert.label>Duboka pustinja</ExtremeDesert.label>
+  <ExtremeDesert.description>Ekstremno topla, bezvodna oblast, lišena skoro svih oblika života. Velika vrućina i veoma retka vegetacija znače da je veoma teško preživeti ovde, čak i za veoma dobro prilagodljive životinj.</ExtremeDesert.description>
+
+</LanguageData>

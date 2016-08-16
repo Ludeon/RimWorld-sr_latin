@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Torso.label>torzo</Torso.label>
+  <UpperHead.label>kranijalni</UpperHead.label>
+  <FullHead.label>glava</FullHead.label>
+  <Eyes.label>oči</Eyes.label>
+  <Teeth.label>zubi</Teeth.label>
+  <Mouth.label>usta</Mouth.label>
+  <Arms.label>ruke</Arms.label>
+  <Shoulders.label>ramena</Shoulders.label>
+  <Hands.label>šake</Hands.label>
+  <LeftHand.label>leva šaka</LeftHand.label>
+  <RightHand.label>desna šaka</RightHand.label>
+  <Legs.label>noge</Legs.label>
+  <Feet.label>stopala</Feet.label>
+  <FrontLeftPaw.label>prednja leva šapa</FrontLeftPaw.label>
+  <FrontRightPaw.label>prednja desna šapa</FrontRightPaw.label>
+  <HeadAttackTool.label>glava</HeadAttackTool.label>
+  <FrontLeftLeg.label>prednja leva noga</FrontLeftLeg.label>
+  <FrontRightLeg.label>prednja desna noga</FrontRightLeg.label>
+  <FrontLeftClaws.label>prednje leve kandže</FrontLeftClaws.label>
+  <FrontRightClaws.label>prednje desne kandže</FrontRightClaws.label>
+  <LeftBlade.label>levo sečivo</LeftBlade.label>
+  <RightBlade.label>desno sečivo</RightBlade.label>
+  <TuskAttackTool.label>kljove</TuskAttackTool.label>
+  <HornAttackTool.label>rogovi</HornAttackTool.label>
+  <HeadClaw.label>kandža</HeadClaw.label>
+  <TurtleBeakAttackTool.label>nos</TurtleBeakAttackTool.label>
+  <Beak.label>kljun</Beak.label>
+
+</LanguageData>

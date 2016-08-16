@@ -1,0 +1,12 @@
+﻿
+//Simple colors only, no mauve and puce
+
+
+crvena
+plava
+zelena
+ljubičasta
+crna
+bela
+siva
+narandžasta

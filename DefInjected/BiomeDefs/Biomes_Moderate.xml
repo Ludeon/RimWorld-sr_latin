@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ======== Unlandable biomes ==========-->
+
+  
+   
+    <Ocean.label>okean</Ocean.label>
+    <Ocean.description>Pučina. Dobar za ribu - ne tako dobar za vas.</Ocean.description>
+  
+
+  <!-- ======== Buildable biomes ==========-->
+
+  
+   
+    <TemperateForest.label>umerena šuma</TemperateForest.label>
+    <TemperateForest.description>Pristupačan biom kojim dominira listopadno drveće, prošaran plodnim čistinama. Mnoge životinjske vrste se kreću po šumi i po ravnicama.</TemperateForest.description>
+   
+
+    <TropicalRainforest.label>tropska prašuma</TropicalRainforest.label>
+    <TropicalRainforest.description>Gusta i vlažna Džungla,, moist jungle. Gusto rastinje i agresivan životinski svet čine gradnju i preživljavanje teškim.</TropicalRainforest.description>
+   
+
+</LanguageData>

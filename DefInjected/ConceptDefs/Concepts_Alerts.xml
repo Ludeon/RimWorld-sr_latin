@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Start-active concepts -->
+
+  <Forbidding.label>dozvoli korišćenje</Forbidding.label>
+  <Forbidding.helpTexts.0>Kolonisti neće koristiti objekte koji su označeni kao ZABRANJENI.\n\nObjekti koji su zabranjeni imaju malo crveno X pored njih. Označite zabranjeni objekat i iskoristite dugme na dnu da ga iznačite kao dozvoljeni.</Forbidding.helpTexts.0>
+
+  <Stockpiles.label>odredi skladište</Stockpiles.label>
+  <Stockpiles.helpTexts.0>Vašim kolonistima treba mesto da bi skladištili predmete. Odredite SKLADIŠTE gde će oni ostavljati stvari.\n\ nNađi skladište u odeljku ZONE menija ARHITEKTA u donjem levom delu ekrana.</Stockpiles.helpTexts.0>
+
+  <GrowingFood.label>odredi zonu za uzgajanje biljaka</GrowingFood.label>
+  <GrowingFood.helpTexts.0>Da bi uzgajali hranu odredite ZONE ZA UZGAJANJE koristeći meni Arhitekta.\n\nOne mogu biti postavljene samo na plodno zemljište.</GrowingFood.helpTexts.0>
+
+  <!-- Timed concepts -->
+
+  <EquippingWeapons.label>Naoružavanje</EquippingWeapons.label>
+  <EquippingWeapons.helpTexts.0>Vaši kolonisti su došli sa nekim oružjem. Naoružajte ih! \n\nIzaberite svakog od kolonista i desnim klikom klinite na oružje koje želite da on koristi.</EquippingWeapons.helpTexts.0>
+
+  <CameraZoom.label>Zumiranje kamere</CameraZoom.label>
+  <CameraZoom.helpTexts.0>Zumirajte kameru koristeći točkić miša ili tastere T i G.</CameraZoom.helpTexts.0>
+
+  <WorkTab.label>Podešavanje prioriteta u radu</WorkTab.label>
+  <WorkTab.helpTexts.0> MOžete odrediti podešavanja rada za svakog pojedinačnog kolonistu u meniju RAD u donjem levom delu ekrana. \n\nOni će uvek raditi posao najvećeg proriteta koji im je dostupan u tom trenutku. \n\nAko niko nema dodeljenu određenu vrstu posla, ili ako su zauztei sa poslovima većeg prioriteta, taj zadatak nikada nečće biti završen.</WorkTab.helpTexts.0>
+
+  <TimeControls.label>Kontrola protoka vremena</TimeControls.label>
+  <TimeControls.helpTexts.0>Možete ubrzati, usporiti ili zaustaviti protok vremena korišćenjem kontrola u donjem desnom delu ekrana.</TimeControls.helpTexts.0>
+
+  <InfoCard.label>Prikazivanje kartice sa informacijama</InfoCard.label>
+  <InfoCard.helpTexts.0>Kartica sa informacijama prikazuje vam detaljnu statistiku o bilo kojem predmetu, osobi ili konstrukciji. \n\nIzaberite osobu ili predmet i otvorite njihovu karticu sa informacijama koriteći 'i' dugme u panelu sa informacijama.</InfoCard.helpTexts.0>
+
+  <SpacePause.label>Nauči pauziranje korišćenjem SPACE tastera</SpacePause.label>
+  <SpacePause.helpTexts.0>KOrišćenjem SPACE tastera moguće je pauzirati ili nastaviti igru. \n\nMožete zadavati komande dok je igra pauzirana. \n\nZapamtite ovo - ako stvari počnu da se odvijaju previše brzo, samo pritisnite SPACE!</SpacePause.helpTexts.0>
+
+  <StorageTab.label>Nauči podešavanje skladišta</StorageTab.label>
+  <StorageTab.helpTexts.0>Možete podešavati skladišni prostor i zgrade za skladištenje tako što ćete ih označiti i otvoriti odeljak SKLADIŠTE koji se nalazi iznad dela za prikaz informacija u donjem levom uglu.</StorageTab.helpTexts.0>
+
+  <MedicalOperations.label>Nauči izvođenje medicinskih operacija</MedicalOperations.label>
+  <MedicalOperations.helpTexts.0>Da bi zakazali medicinsku operaciju kao što je vađenje organa ili ugradnja proteza, otvorite odeljak ZDRAVLJE određenog koloniste, i onda se prebacite na pod-odeljak OPERACIJE.</MedicalOperations.helpTexts.0>
+
+  <HomeArea.label>Nauči o zoni doma</HomeArea.label>
+  <HomeArea.helpTexts.0>Zona DOM će odrediti koji prostor vaši kolonisti trebaju da čiste i gde moraju da gase požare.\n\nOdredite zonu DOMA u delu ZONE u meniju Arhitekta.</HomeArea.helpTexts.0>
+
+  <RightClickClearLetter.label>Nauči da uklanjaš poruke korišćenjem desnog klika</RightClickClearLetter.label>
+  <RightClickClearLetter.helpTexts.0>Brzo možete ukoniti pristigle poruke tako što ćete kliknuti desnim klikom na njih.</RightClickClearLetter.helpTexts.0>
+
+  <!-- Opportunity needer concepts -->
+
+  <BuildOrbitalTradeBeacon.label>Izgradite orbitalni odašiljač za trgovinu</BuildOrbitalTradeBeacon.label>
+  <BuildOrbitalTradeBeacon.helpTexts.0>Da bi poslali predmete ili srebro trgovcima u orbiti morate izgraditi ORBITALNI ODAŠILJAČ ZA TRGOVINU i postavite prostor za skladištenje željenih predmeta pored njega.</BuildOrbitalTradeBeacon.helpTexts.0>
+
+  <SetGrowingZonePlant.label>Nauči o podešavanju zone za uzgajanje</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.helpTexts.0>možete odrediti koju biljku želite da uzgajate u zoni za uzgajanje. Možete čak da uzgajate i drveće! \n\nOdaberite onu za uzgajanje, otvorite odeljak UZGAJANJE, i kliknite na dugme 'biljka'.</SetGrowingZonePlant.helpTexts.0>
+
+  <PrisonerTab.label>Naučite o manipulaciji zarobljenicima</PrisonerTab.label>
+  <PrisonerTab.helpTexts.0>Pogledajte zatvorenikov odeljak 'Zatvorenik' da odredite kakav će tretman on dobijati. \n\nTreba vam kolonista sa određenim 'Nadzornik' zaduženjem da bi se brinuo o kolonisti..</PrisonerTab.helpTexts.0>
+
+  <StoragePriority.label>Nauči da određuješ prioritete skladišta</StoragePriority.label>
+  <StoragePriority.helpTexts.0>Možete menjati prioritet skladišta. Kolonisti će prvo puniti skladišta većeg prioriteta.</StoragePriority.helpTexts.0>
+
+  <HistoryTab.label>Nauči da koristiš deo o istoriji</HistoryTab.label>
+  <HistoryTab.helpTexts.0>Možete pratiti zapis o dešavanjima u vašoj koloniji u odeljku ISTORIJA u donjem delu ekrana.</HistoryTab.helpTexts.0>
+
+</LanguageData>

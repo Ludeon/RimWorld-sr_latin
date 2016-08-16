@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MechanicalThorax.label>grudni koš</MechanicalThorax.label>
+  <LeftBlade.label>levo sečivo</LeftBlade.label>
+  <RightBlade.label>desno sečivo</RightBlade.label>
+  <MechanicalNeck.label>vrat</MechanicalNeck.label>
+  <MechanicalHead.label>glava</MechanicalHead.label>
+  <LeftSightSensor.label>levi otkički senzor</LeftSightSensor.label>
+  <RightSightSensor.label>desni optički senzor</RightSightSensor.label>
+  <LeftHearingSensor.label>levi akustični senzor</LeftHearingSensor.label>
+  <RightHearingSensor.label>desni akustični senzor</RightHearingSensor.label>
+  <SmellSensor.label>senzor mirisa</SmellSensor.label>
+  <LeftMechanicalShoulder.label>levo rame</LeftMechanicalShoulder.label>
+  <LeftMechanicalArm.label>leva ruka</LeftMechanicalArm.label>
+  <LeftMechanicalHand.label>leva šaka</LeftMechanicalHand.label>
+  <LeftHandMechanicalPinky.label>mali prst (levi)</LeftHandMechanicalPinky.label>
+  <LeftHandMechanicalMiddleFinger.label>srednji prst (levi)</LeftHandMechanicalMiddleFinger.label>
+  <LeftHandMechanicalIndexFinger.label>kažiprst (levi)</LeftHandMechanicalIndexFinger.label>
+  <LeftHandMechanicalThumb.label>palac (levi)</LeftHandMechanicalThumb.label>
+  <RightMechanicalShoulder.label>desno rame</RightMechanicalShoulder.label>
+  <RightMechanicalArm.label>desna ruka</RightMechanicalArm.label>
+  <RightMechanicalHand.label>desna šaka</RightMechanicalHand.label>
+  <RightHandMechanicalPinky.label>mali prst (desni)</RightHandMechanicalPinky.label>
+  <RightHandMechanicalMiddleFinger.label>srednji prst (desni)</RightHandMechanicalMiddleFinger.label>
+  <RightHandMechanicalIndexFinger.label>kažiprst (desni)</RightHandMechanicalIndexFinger.label>
+  <RightHandMechanicalThumb.label>palac (desni)</RightHandMechanicalThumb.label>
+  <LeftMechanicalLeg.label>leva noga</LeftMechanicalLeg.label>
+  <LeftMechanicalFoot.label>levo stopalo</LeftMechanicalFoot.label>
+  <RightMechanicalLeg.label>desna noga</RightMechanicalLeg.label>
+  <RightMechanicalFoot.label>desno stopalo</RightMechanicalFoot.label>
+  <MechanicalCentipedeBodyFirstRing.label>prvi segment tela</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodySecondRing.label>drugi segment tela</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodyThirdRing.label>treći segment tela</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyFourthRing.label>četvrti segment tela</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFifthRing.label>peti segment tela</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodySixthRing.label>šesti segment tela</MechanicalCentipedeBodySixthRing.label>
+  <ArtificialBrain.label>veštački mozak</ArtificialBrain.label>
+
+</LanguageData>
