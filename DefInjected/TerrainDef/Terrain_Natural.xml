@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Standard soils -->
+
+  <Soil.label>soil</Soil.label>
+  <MossyTerrain.label>lichen-covered soil</MossyTerrain.label>
+  <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
+
+
+  <!-- Rich soils -->
+
+  <SoilRich.label>rich soil</SoilRich.label>
+
+
+  <!-- Poor soils -->
+
+  <Gravel.label>stony soil</Gravel.label>
+
+
+  <!-- Sand -->
+
+  <Sand.label>sand</Sand.label>
+  <SoftSand.label>soft sand</SoftSand.label>
+
+
+  <!-- Infertile ground -->
+
+  <Mud.label>mud</Mud.label>
+
+
+  <!-- Ice -->
+
+  <Ice.label>Ice</Ice.label>
+
+
+</LanguageData>

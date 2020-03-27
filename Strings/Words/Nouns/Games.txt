@@ -1,8 +1,8 @@
 ﻿poker
-šah
-karte
-bekgemon
-kockice
+chess
+cards
+backgammon
+dice
 craps
-rulet
-blekdžek
+roulette
+blackjack

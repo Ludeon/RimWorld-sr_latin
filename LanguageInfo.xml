@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageInfo>
-  <friendlyNameNative>English</friendlyNameNative>
-  <friendlyNameEnglish>English</friendlyNameEnglish>
+  <friendlyNameNative>Srpski</friendlyNameNative>
+  <friendlyNameEnglish>Serbian</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
-  <languageWorkerClass>LanguageWorker_English</languageWorkerClass>
+  <languageWorkerClass>LanguageWorker_Serbian</languageWorkerClass>
   <credits>
     <li Class="CreditRecord_Role">
-      <roleKey>Credit_Writer</roleKey>
-      <creditee>Tynan Sylvester</creditee>
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Radoš 'rammba' Milićev</creditee>
+    </li>
+	<li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Marko 'Romanizat' Josifović</creditee>
     </li>
   </credits>
 </LanguageInfo>

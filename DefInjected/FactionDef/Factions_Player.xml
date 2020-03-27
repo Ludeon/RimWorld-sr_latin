@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <PlayerColony.label>New Arrivals</PlayerColony.label>
+  <PlayerColony.description>A colony of recently-arrived off-worlders.</PlayerColony.description>
+  <PlayerColony.leaderTitle>leader</PlayerColony.leaderTitle>
+  <PlayerColony.pawnSingular>colonist</PlayerColony.pawnSingular>
+  <PlayerColony.pawnsPlural>colonists</PlayerColony.pawnsPlural>
+
+  <PlayerTribe.label>New Tribe</PlayerTribe.label>
+  <PlayerTribe.description>A small tribe.</PlayerTribe.description>
+  <PlayerTribe.leaderTitle>leader</PlayerTribe.leaderTitle>
+  <PlayerTribe.pawnSingular>tribesman</PlayerTribe.pawnSingular>
+  <PlayerTribe.pawnsPlural>tribespeople</PlayerTribe.pawnsPlural>
+
+
+</LanguageData>

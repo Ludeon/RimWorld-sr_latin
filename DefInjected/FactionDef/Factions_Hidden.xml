@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Ancients.label>ancients</Ancients.label>
+  <Ancients.fixedName>Ancients</Ancients.fixedName>
+  <Ancients.leaderTitle>leader</Ancients.leaderTitle>
+  <Ancients.pawnSingular>ancient</Ancients.pawnSingular>
+  <Ancients.pawnsPlural>ancients</Ancients.pawnsPlural>
+
+  <AncientsHostile.label>ancients</AncientsHostile.label>
+  <AncientsHostile.fixedName>Ancients</AncientsHostile.fixedName>
+  <AncientsHostile.leaderTitle>leader</AncientsHostile.leaderTitle>
+  <AncientsHostile.pawnSingular>ancient</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnsPlural>ancients</AncientsHostile.pawnsPlural>
+
+  <Mechanoid.label>mechanoid hive</Mechanoid.label>
+  <Mechanoid.fixedName>a mechanoid hive</Mechanoid.fixedName>
+  <Mechanoid.leaderTitle>leader</Mechanoid.leaderTitle>
+  <Mechanoid.pawnSingular>mechanoid</Mechanoid.pawnSingular>
+  <Mechanoid.pawnsPlural>mechanoids</Mechanoid.pawnsPlural>
+
+  <Insect.label>insects</Insect.label>
+  <Insect.fixedName>insects</Insect.fixedName>
+  <Insect.leaderTitle>leader</Insect.leaderTitle>
+  <Insect.pawnSingular>insect</Insect.pawnSingular>
+  <Insect.pawnsPlural>insects</Insect.pawnsPlural>
+
+
+</LanguageData>
