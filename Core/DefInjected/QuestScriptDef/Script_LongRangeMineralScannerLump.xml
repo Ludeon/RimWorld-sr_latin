@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->Using your long-range mineral scanner, [worker_definite] has found a lump of [targetMineable_label] nearby.\n\nUnfortunately, it won't last - others will mine it first in [timeoutTicks_duration] if we don't.\n\n[allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+    <li>questDescription->Beim Einsatz des Scanners für entfernte Mineralien hat [worker_definite] ein großes [targetMineable_label]vorkommen in der Nähe gefunden.\n\nAllerdings wird es nicht für immer da sein - Andere werden es in [timeoutTicks_duration] abbauen, wenn wir nichts unternehmen.\n\n[allSitePartsDescriptionsExceptFirst]</li>
+  </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [subName]</li>
+    <li>questName->[subName]</li>
+    <li>subName->[adj] Resources</li>
+    <li>subName->[adj] Minerals</li>
+    <li>subName->[adj] Ores</li>
+    <li>subName->[adj] Wealth</li>
+    <li>subName->[adj] Mineables</li>
+    <li>subName->[adj] Lump</li>
+    <li>subName->[adj] Mining Project</li>
+    <li>adj->Distant</li>
+    <li>adj->Far</li>
+    <li>adj->Long-Range</li>
+    <li>adj->Unknown</li>
+    <li>adj->Discovered</li>
+    <li>adj->Scanned</li>
+    <li>adj->Detected</li>
+    <li>adj->Found</li>
+  -->
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings>
+    <li>questName->[adj]e [subjPlu]</li>
+    <li>questName->Die [adj]en [subjPlu]</li>
+    <li>questName->[adj]es [subjNeu]</li>
+    <li>questName->Das [adj]e [subjNeu]</li>
+    <li>questName(p=0.1)->[adj]er [subjMas]</li>
+    <li>questName(p=0.1)->Der [adj]e [subjMas]</li>
+    <li>questName(p=0.5)->[adj]es [targetMineable_label]vorkommen</li>
+    <li>subjPlu->Ressourcen</li>
+    <li>subjPlu->Mineralien</li>
+    <li>subjPlu->Erze</li>
+    <li>subjPlu->Gesteine</li>
+    <li>subjMas->Reichtum</li>
+    <li>subjMas->Wohlstand</li>
+    <li>subjNeu->Abbauprojekt</li>
+    <li>subjNeu->Vorkommen</li>
+    <li>subjNeu->Mineral</li>
+    <li>subjNeu->Erz</li>
+    <li>subjNeu->Gestein</li>
+    <li>adj->fern</li>
+    <li>adj->weit entfernt</li>
+    <li>adj->verborgen</li>
+    <li>adj->unbekannt</li>
+    <li>adj->entdeckt</li>
+    <li>adj->gescannt</li>
+    <li>adj->aufgespürt</li>
+    <li>adj->gefunden</li>
+    <li>adj->entlegen</li>
+  </LongRangeMineralScannerLump.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quest abgelaufen: [resolvedQuestName]</LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->
+  <LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Andere haben das [targetMineable_label]vorkommen abgebaut. Die Quest [resolvedQuestName] ist abgelaufen.</LongRangeMineralScannerLump.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

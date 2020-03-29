@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient soldier -->
+  <AncientSoldier.label>antiker Soldat</AncientSoldier.label>
+  <AncientSoldier.labelFemale>antike Soldatin</AncientSoldier.labelFemale>
+  <AncientSoldier.labelPlural>antike Soldaten</AncientSoldier.labelPlural>
+  
+  <!-- EN: space refugee -->
+  <SpaceRefugee.label>Weltraumemigrant</SpaceRefugee.label>
+  <SpaceRefugee.labelFemale>Weltraumemigrantin</SpaceRefugee.labelFemale>
+  <SpaceRefugee.labelPlural>Weltraumemigranten</SpaceRefugee.labelPlural>
+  
+  <!-- EN: space refugee -->
+  <SpaceRefugee_Clothed.label>Weltraumemigrant</SpaceRefugee_Clothed.label>
+  <SpaceRefugee_Clothed.labelFemale>Weltraumemigrantin</SpaceRefugee_Clothed.labelFemale>
+  <SpaceRefugee_Clothed.labelPlural>Weltraumemigranten</SpaceRefugee_Clothed.labelPlural>
+  
+</LanguageData>

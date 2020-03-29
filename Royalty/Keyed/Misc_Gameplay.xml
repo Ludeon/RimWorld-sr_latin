@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Royalty and throne -->
+  <ThroneTitleStature>Appropriate for title: {0}</ThroneTitleStature>
+  <ThronePrevTitleStature>Previous title satisfied: {0}</ThronePrevTitleStature>
+  <ThroneNextTitleStature>Next title satisfied: {0}</ThroneNextTitleStature>
+  <ThroneRoomImpressivenessInfo>({0} impressiveness)</ThroneRoomImpressivenessInfo>
+  <ThroneMustBePlacedInside>Throne must be placed indoors.</ThroneMustBePlacedInside>
+  <ThroneRoomHasMoreThan1Throne>Throne room contains more than one throne, but this is only allowed for married couples.</ThroneRoomHasMoreThan1Throne>
+  <MinimumRoyalTitleInspectString>Minimum title ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
+  <RequiresTradePermission>Trading here requires title: {0}</RequiresTradePermission>
+  <RequirementPersonalBedroom>Personal bedroom (partner allowed)</RequirementPersonalBedroom>
+  
+  <!-- Generated neurotrainers -->
+  <PsycastNeurotrainerLabel>psytrainer ({0})</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerUseLabel>Use neurotrainer to learn {0} psycast</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerDescription>A one-use super-dose of mechanites which trains a specific psycast.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific psycast ability, transmuting themselves into neural tissue as needed.</PsycastNeurotrainerDescription>
+  <AbilityNeurotrainerUsed>{USER_labelShort} used neurotrainer to learn the {1} psycast.</AbilityNeurotrainerUsed>
+  <PsycastLearnedFromImplant>{USER_labelShort} has reached psychic amplifer level {1} and has automatically learned this psycast: {2}.</PsycastLearnedFromImplant>
+  <PsycastNeurotrainerNoPsychicAmplifier>Requires psychic amplifier</PsycastNeurotrainerNoPsychicAmplifier>
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} already knows {1}.</PsycastNeurotrainerAbilityAlreadyLearned>
+
+  <Reward_RoyalFavor>whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name}</Reward_RoyalFavor>
+  <Reward_RoyalFavor_ChoosePawn>you may choose one of the participating {2} to receive {1} {0_royalFavorLabel} from {0_name}</Reward_RoyalFavor_ChoosePawn>
+  
+</LanguageData>

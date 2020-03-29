@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Royal Titles -->
+  <RoyalFavorDescription>The amount of {FACTION_royalFavorLabel} that your negotiator will personally receive as a result of this deal.</RoyalFavorDescription>
+  <RoyalTitleTooltipRequiredApparel>Required apparel</RoyalTitleTooltipRequiredApparel>
+  <RoyalTitleTooltipRequiredApparelQuality>Minimum apparel quality</RoyalTitleTooltipRequiredApparelQuality>
+  <RoyalTitleTooltipBedroomRequirements>Bedroom requirements</RoyalTitleTooltipBedroomRequirements>
+  <RoyalTitleTooltipThroneroomRequirements>Throneroom requirements</RoyalTitleTooltipThroneroomRequirements>
+  <RoyalTitleTooltipMaxPsycastLevel>Max allowed psycast level</RoyalTitleTooltipMaxPsycastLevel>
+  <RoyalTitleTooltipMaxPsycastLevelDescription>The highest level of psycast that this title allows.\n\n{FACTION_name}'s laws prohibit using psycasts without a suitable title. Each time you perform an illegal psycast, there's a chance the psychic signature will be detected, leading to diplomatic consequences.\n\nPsychic signatures can be concealed with a psychic silencer implant.</RoyalTitleTooltipMaxPsycastLevelDescription>
+  <RoomRequirementArea>room area: {0} tiles</RoomRequirementArea>
+  <RoomRequirementImpressiveness>room impressiveness</RoomRequirementImpressiveness>
+  <RoomRequirementAllFloored>all floored</RoomRequirementAllFloored>
+  <RoomRequirementAllBraziersMustBeLit>all braziers must be lit</RoomRequirementAllBraziersMustBeLit>
+  <RoomRequirementAllFineFloored>all fine floored</RoomRequirementAllFineFloored>
+  <RoyalTitleRequiredApparelStatDescription>Holders of this title must be covered in some combination of</RoyalTitleRequiredApparelStatDescription>
+  <ApparelRequirementAnyPowerArmor>Any powered armor</ApparelRequirementAnyPowerArmor>
+  <ApparelRequirementAnyPsycasterApparel>Any psycaster apparel</ApparelRequirementAnyPsycasterApparel>
+  <DisabledWorkTypes>Disabled work types</DisabledWorkTypes>
+  <RoyalTitleRequiredMeals>Allowed foods</RoyalTitleRequiredMeals>
+  <RoyalTitleRequiredMealsDesc>A holder of this title will only eat these foods, unless they are starving or on a caravan.</RoyalTitleRequiredMealsDesc>
+  
+  <!-- Royal implants -->
+  <RoyalImplantIllegalUseWarning>According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences.\n\nA psychic silencer implant would allow use of the {IMPLANT} without detection.</RoyalImplantIllegalUseWarning>
+  <RoyalImplantInstallConfirmation>Install this implant anyway?</RoyalImplantInstallConfirmation>
+  <RoyalImplantUpgradeConfirmation>Upgrade this implant anyway?</RoyalImplantUpgradeConfirmation>
+  <PsychicAmplifierViolationTrigger>Each time {PAWN_labelShort} performs a psycast above the allowed level</PsychicAmplifierViolationTrigger>
+
+  <!-- Royal weapons -->
+  <RoyalWeaponIllegalUseWarning>According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use {WEAPON_indefinite}.\n\nEach time {PAWN_labelShort} attacks with a bladelink weapon, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences.\n\nA psychic silencer implant would allow use of {WEAPON_definite} without detection.</RoyalWeaponIllegalUseWarning>
+  <BladelinkEquipWarning>Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else.</BladelinkEquipWarning>
+  <RoyalWeaponEquipConfirmation>Are you sure you want to equip this item?</RoyalWeaponEquipConfirmation>
+  
+  <!-- Psycasts -->
+  <AbilityTargetPsychicallyDeaf>Target is psychically deaf.</AbilityTargetPsychicallyDeaf>
+  <PsycastRequiredAmplifierLevel>Amplifier level</PsycastRequiredAmplifierLevel>
+  <PsycastIsIllegal>This is illegal for {PAWN_labelShort}. Requires {TITLE} title.</PsycastIsIllegal>
+
+</LanguageData>

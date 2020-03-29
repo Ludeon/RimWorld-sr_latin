@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Room requirements -->
+  <NeedThroneAssigned>Need throneroom</NeedThroneAssigned>
+  <NeedThroneAssignedDesc>One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nBuild a throne in a room, then assign the throne to the title holder. The throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.</NeedThroneAssignedDesc>
+
+  <UndignifiedBedroom>Undignified bedroom</UndignifiedBedroom>
+  <UndignifiedBedroomDesc>One of your people has a royal title that requires a bedroom with specific features. Either no bedroom is assigned, or the assigned bedroom doesn't satisfy the requirements.</UndignifiedBedroomDesc>
+
+  <NeedBedroomAssigned>Title requires bedroom</NeedBedroomAssigned>
+  <NeedBedroomAssignedDesc>One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements.</NeedBedroomAssignedDesc>
+
+  <UndignifiedThroneroom>Undignified throneroom</UndignifiedThroneroom>
+  <UndignifiedThroneroomDesc>One of your people has a royal title and a throne, but the throne room does not satisfy the title's requirements.</UndignifiedThroneroomDesc>
+  
+  <RoyalNoAcceptableFood>No acceptable food</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFoodDesc>One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements.</RoyalNoAcceptableFoodDesc>
+
+  <RoomRequirementGracePeriodDesc>{0} days until requirement begins</RoomRequirementGracePeriodDesc>
+
+  <ThroneroomInvalidConfiguration>Throne not usable</ThroneroomInvalidConfiguration>
+  <ThroneroomInvalidConfigurationDesc>A throne is not usable because of how it is set up:</ThroneroomInvalidConfigurationDesc>
+  
+  <MonumentMarkerMissingBlueprints>Monument missing blueprints</MonumentMarkerMissingBlueprints>
+  <MonumentMarkerMissingBlueprintsDesc>The monument won't be completed because blueprints have not been placed for all its parts.\n\nSelect the monument marker and click "Place blueprints", or place the blueprints manually.</MonumentMarkerMissingBlueprintsDesc>
+
+</LanguageData>
