@@ -1,9 +1,9 @@
-﻿pack
-pack
-pack
-group
-group
-group
-horde
-gaggle
-multitude
+﻿čopor
+čopor
+čopor
+grupa
+grupa
+grupa
+horda
+jato gusaka
+mnoštvo

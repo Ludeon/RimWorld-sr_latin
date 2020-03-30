@@ -1,10 +1,10 @@
 ﻿
 
-red
-black
-gray
-ash
+crvena
+crna
+siva
+pepeo
 
-dark
-shadow
-night
+tamno
+senka
+noć
