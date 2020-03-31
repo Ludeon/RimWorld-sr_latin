@@ -1,18 +1,18 @@
-﻿Company
-Partners
-Corporation
-Traders
-Industries
-Incorporated
-Travelers
-Interplanetary
-Shipping
-Export Company
-Import Company
-Transport Company
-Transit Company
-Securities
-Solutions
-Consortium
-Interstellar
-Lubricants
+﻿Kompanija
+Partneri
+Korporacija
+Trgovci
+Industrije
+Inkorporacija
+Putnici
+Međuplanetarno
+Otpremanje
+Kompanija za izvoz
+Kompanija za uvoz
+Transportna kompanija
+Kompanija za prevoz
+Obveznice
+Rešenja
+Konzorcijum
+Međuzvezdano
+Lubrikanti

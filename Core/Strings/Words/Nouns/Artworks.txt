@@ -1,52 +1,52 @@
-﻿artwork
-art
-work
-item
-piece
+﻿umetničko delo
+umetnost
+rad
+predmet
+komad
 
-oeuvre
-expression
-attempt
-untitled
-titled
+opus
+izraz
+pokušaj
+nenaslovljeno
+naslovljeno
 
-shape
-form
-image
-shot
-picture
-portrait
-still
+oblik
+forma
+fotografija
+snimak
+slika
+portret
+kadar
 
-poem
+pesma
 
-lullaby
-song
-tune
-rhythm
-beat
+uspavanka
+pesma
+melodija
+ritam
+takt
 
-codex
-book
+kodeks
+knjiga
 
-cuboid
-circloid
-parabolic
-cubic
-curvelike
-curve
+kvadratno
+kružno
+parabolično
+kockasto
+krivuljasto
+kriva
 
-mirror
-day
-vomit
-sweat
-shadow
+ogledalo
+dan
+povraćka
+znoj
+senka
 
-freedom
-vision
-love
-divinity
-wisdom
-shame
-death
-darkness
+sloboda
+vizija
+ljubav
+božanstvo
+mudrost
+sramota
+smrt
+tama

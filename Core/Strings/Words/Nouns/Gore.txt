@@ -1,7 +1,7 @@
-﻿blood
-gore
-guts
-viscera
-innards
-entrails
-intestines
+﻿krv
+krvoproliće
+creva
+utroba
+iznutrica
+iznutrica
+creva

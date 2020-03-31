@@ -1,17 +1,17 @@
 ﻿
-scyther
-lancer
-centipede
+sekač
+kopljanik
+stonoga
 
-mechanoid
+mehanoid
 robot
-automaton
-drone
-combat drone
-serving bot
-utility bot
-sexbot
-guard bot
+automat
+dron
+borbeni dron
+uslužni robot
+robot sa opremom
+seks robot
+robot čuvar
 
-machine persona avatar
-archotech projection
+mašina persona avatar
+arhitehta projekcija

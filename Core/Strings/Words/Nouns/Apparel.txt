@@ -1,27 +1,27 @@
-﻿shirt
-button-down shirt
-formal shirt
-jacket
-raincoat
-formal suit
-evening gown
-parka
-duster
-space suit
-power armor suit
+﻿majica
+košulja
+svečana košulja
+jakna
+kabanica
+svečano odelo
+večernja haljina
+jakna sa kapuljačom
+ogrtač
+svemirsko odelo
+moćno oklopno odelo
 
-bow tie
-necktie
-belt
-jock strap
+leptir mašna
+kravata
+kaiš
+suspenzor
 
-hat
-bowler hat
-baseball cap
-tuque
-top hat
+šešir
+polucilindar
+bejzbol kačket
+kapa
+cilindar
 
-shoe
-boot
-sandal
+cipela
+čizma
+sandala
 
