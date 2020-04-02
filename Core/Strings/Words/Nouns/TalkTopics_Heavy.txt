@@ -1,138 +1,138 @@
-﻿childhood
-childhood fears
-childhood loves
-childhood experiences
-life
-life challenges
-life's rewards
-life memories
-life goals
-life regrets
-life stresses
-the disappointment of life
-the pointlessness of life
-the randomness of life
-hope
-maturity
-adulthood
-children
-fear
-nightmares
-success
-the morality of poverty
-the morality of wealth
+﻿detinjstvo
+strahovi iz detinjstva
+ljubavi iz detinjstva
+iskustva iz detinjstva
+život
+životni izazovi
+životne nagrade
+životne uspomene
+životni ciljevi
+kajanja u životu
+životni stresovi
+razočarenje u život
+besmislenost života
+nasumičnost u životu
+nada
+zrelost
+odrasli period
+deca
+strah
+košmari
+uspeh
+pouka siromaštva
+pouka bogatstva
 
-death
-death's inevitability
-death's release
-life after death
-dead loved ones
-absent friends
+smrt
+neizbežnost smrti
+oslobađanje smrću
+život nakon smrti
+umrli voljeni
+odsutni prijatelji
 
-charity
-philanthropism
-aiding the downtrodden
-helping the sick
-helping the poor
+milosrđe
+filantropizam
+pomoć potlačenima
+pomoć bolesnima
+pomoć siromasima
 
-aliens
-alien contact
-alien conspiracies
-the absence of aliens
-government conspiracies
-religious conspiracies
+vanzemaljci
+vanzemaljski kontakt
+teorije zavere o vanzemaljcima
+odsustvo vanzemaljaca
+teorije zavere o vladi
+teorije zavere o religiji
 
-the stars
-other planets
-this planet
-the scale of the universe
-the age of the universe
-the fate of the universe
-man's spread through the universe
+zvezde
+druge planete
+ova planeta
+razmera univerzuma
+starost univerzuma
+sudbina univerzuma
+ljudsko prostiranje univerzumom
 
-primitivism
-luddism
-technology
-machine intelligence
-artificial intelligence
-computer technology
-weapons technology
+primitivizam
+ludizam
+tehnologija
+mašinska inteligencija
+veštačka inteligencija
+kompjuterska tehnologija
+tehnologija naoružanja
 
-society
-morality
-freedom
-law
-government
-rights
-history
-terror
-terrorism
-politics
-honor
-social issues
-the market
-freedom
-authoritarianism
-anarchy
-injustice
-justice
-truth
-tribalism
-ingroup preference
+društvo
+smrtnost
+sloboda
+zakon
+vlada
+prava
+istorija
+teror
+terorizam
+politika
+čast
+problemi u društvu
+pijaca
+sloboda
+autoritarnost
+anarhija
+nepravda
+pravda
+istina
+tribalizam
+sklonosti unutar grupe
 
-philosophy
-reality
-culture
-culture differences
-culture shock
-human nature
-humanity
-religion
-the meaning of life
-identity
-eternity
-monism
-dualism
-epistemology
-honesty
-freedom of speech
-ethnicity
-liberalism
-the inevitability of suffering
-the nature of knowledge
-the nature of emotion
+filozofija
+realnost
+kultura
+kulturne razlike
+kulturni šok
+ljudska priroda
+čovečanstvo
+religija
+smisao života
+identitet
+večnost
+monizam
+dualizam
+epistemologija
+iskrenost
+sloboda govora
+nacionalnost
+liberalizam
+neizbežnost patnje
+priroda znanja
+priroda emocija
 
-fate
-the fate of mankind
-the fate of the universe
+sudbina
+sudbina čovečanstva
+sudbina univerzuma
 
-art
-art movements
-artistic ambition
-human aesthetics
-artistic instincts
-art history
+umetnost
+umetnički pokreti
+umetnička ambicija
+ljudska estetika
+umetnički instinkti
+istorija umetnosti
 
-love
-romance
-sexuality
-sexual morality
-masculinity
-femininity
+ljubav
+romansa
+seksualnost
+seksualni moral
+muškost
+ženstvenost
 
-self-replicating machines
-generation ships
-Von Neumann probes
+mašine koje se same repliciraju
+generacijski brodovi
+Fon Nojmanove sonde
 
-archotechnology
-archotechs
-machine personas
-the Johnson-Tanaka drive
-the Ordo Historia
-old Earth
-rimworlds
-coreworlds
-cryptosleep
-cryptosleep tombs
-mechanoids
-cannibalism
+arhotehnologija
+arhotehti
+mašine sa ličnošću
+Džonson-Tanaka disk
+Ordo Historija
+stara Zemlja
+svetovi na obodu
+svetovi u jezgru
+kripto-san
+grobnica za kripto-san
+mehanoidi
+ljudožderstvo

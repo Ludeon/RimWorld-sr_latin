@@ -1,16 +1,16 @@
 ﻿//Common with outlanders
-union
-nation
-confederacy
-confederation
-alliance
-kin league
-covenant
-treaty
-pact
-coalition
+unija
+nacija
+konfederacija
+konfederacija
+savez
+liga srodstva
+sporazum
+ugovor
+pakt
+koalicija
 
 //Tribe specific
-kinship
-people
-tribe
+srodstvo
+ljudi
+pleme

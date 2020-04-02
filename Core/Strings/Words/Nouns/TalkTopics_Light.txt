@@ -1,73 +1,73 @@
-the weather
+vreme
 
-breakfast cereal
-breakfast
-dinner
-food
-lunchtime
-eating habits
-salty foods
-sweet foods
-savory foods
-bitter foods
+ceralije za doručak
+doručak
+večera
+hrana
+vreme ručka
+navike u ishrani
+slana hrana
+slatka hrana
+ukusna hrana
+gorka hrana
 
-favorite haircuts
-favorite clothes
-hairstyles
-fashion
-makeup
-beards
-facial hair
+omiljene frizure
+omiljena odeća
+frizure
+moda
+šminka
+brade
+dlake na licu
 
-odd jobs
-kids' games
-entertainment
-games
-birthdays
-balloons
-drunkenness
-getting drunk
-parties
-vacations
-beautiful people
-fat people
-tall people
-short people
-guilty pleasures
-vomiting
-eating
-swimming
-sports
-beaches
+čudni poslovi
+dečije igre
+zabava
+igre
+rođendani
+baloni
+pijanstvo
+napiti se
+žurke
+odmori
+prelepi ljudi
+debeli ljudi
+visoki ljudi
+niski ljudi
+grešna zadovoljstva
+povraćanje
+jesti
+plivati
+sportovi
+plaže
 
-animals
-cute animals
-fat animals
-pets
+životinje
+slatke životinje
+debele životinje
+kućni ljubimci
 
-pet peeves
-life's annoyances
-laundry
-sweating
+stvari koje ne voli
+životna nerviranja
+veš
+znojenje
 
-hauling
-cleaning
-eating without tables
-comfortable furniture
-fine meals
-lavish meals
-pemmican
-horseshoes
-recreation
-lovers
-lovin'
-healroot
-botched surgeries
-vomiting
-board games
-computer games
-television
+izvlačenje
+čišćenje
+jesti bez stolova
+udoban nameštaj
+ekskluzivan obrok
+raskošan obrok
+mesni narezak
+potkovice
+rekreacija
+ljubavnici
+voljenje
+isćeljujući koren
+grube operacije
+povraćanje
+društvene igre
+kompjuterske igrice
+televizija
 poker
-billiards
-spaceships
-xenohumans
+bilijar
+svemirski brodovi
+kseno-ljudi

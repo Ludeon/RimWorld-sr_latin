@@ -1,55 +1,55 @@
-﻿plain
-expanse
-grassland
-plateau
-prairie
-desert
-field
+﻿ravnica
+prostranstvo
+pašnjak
+plato
+prerija
+pustinja
+polje
 
-forest
-cactus
-tree
-bush
-thicket
-bramble
+šuma
+kaktus
+drvo
+žbun
+šikara
+mramor
 
-boulder
-rock
-quarry
-stone
+stena
+kamen
+kamenolom
+kamen
 
-mountain
-hill
-mesa
-cliff
-bluff
-crag
-ridge
-valley
-canyon
-gorge
+planina
+brdo
+visoravan
+litica
+strma litica
+greben
+greben
+dolina
+kanjon
+klisura
 
-oasis
-meadow
+oaza
+livada
 
-cave
+pećina
 
-river
-stream
-creek
-tributary
-brook
+reka
+potok
+potočić
+pritoka
+potočić
 delta
-inlet
-sound
-cove
+uvala
+zvuk
+zaliv
 
-lake
-ocean
-pond
-basin
-lagoon
-pit
-swamp
-tarpit
-mire
+jezero
+okean
+jezerce
+sliv
+laguna
+jama
+močvara
+jama sa katranom
+kaljuga

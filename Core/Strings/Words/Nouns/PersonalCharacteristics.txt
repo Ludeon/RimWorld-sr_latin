@@ -1,96 +1,96 @@
-﻿clothes
-clothing choices
-fashion knowledge
-stylishness
+﻿odeća
+izbor odeće
+znanje o modi
+ukus
 
-looks
-appearance
-height
-weight
-hair
-hairstyle
-facial hair
-leg hair
-face
-eyes
-nose
-ears
-jawline
-forehead
-hands
-body
-muscles
+izgled
+izgled
+visina
+masa
+kosa
+frizura
+dlake na licu
+dlake na nogama
+lice
+oči
+nos
+uši
+vilica
+čelo
+ruke
+telo
+mišići
 
-voice
-way of speaking
-accent
+glas
+način govora
+akcenat
 
-shooting skills
-melee fighting skills
-social skills
-plant growing skills
-medical skill
-animal taming ability
-cooking skill
-construction skill
-mining skill
-artistic skills
-crafting skills
-intellectual skills
+pucačke veštine
+veštine borbe na blizinu
+socijalne veštine
+baštovanske veštine
+medicinske veštine
+veštine pripitomljavanja životinja
+kulinarske veštine
+građevinske veštine
+rudarske veštine
+umetničke veštine
+zanatske veštine
+intelektualne veštine
 
-skills
-abilities
-intelligence
-judgment
-brainpower
-emotional stability
-self-control
-usefulness
-attitude
-way of walking
-way of thinking
-fighting methods
-learning ability
-diet
-eating habits
-food preferences
-relationship status
-age
-value as a human
-sense of responsibility
-sense of duty
-honor
-honesty
-courageousness
-opinions
-beliefs
-ideas
-hopes and dreams
-ambitions
-personal habits
-personal hygiene
-hardiness
-personality
-class
-culture
-recreational preferences
-punctuality
-generosity
-bravery
-loyalty
-honesty
-kindness
-eloquence
-broad-mindedness
-charm
-sincerity
-open-mindedness
+veštine
+sposobnosti
+inteligencija
+procena
+moždane sposobnosti
+emocionalna stabilnost
+samokontrola
+korisnost
+stav
+način hodanja
+način razmišljanja
+borilačke metode
+sposobnosti učenja
+ishrana
+navike u ishrani
+omiljena hrana
+status veze
+godine
+vrednost kao čovek
+osećaj odgovornosti
+osećaj obaveze
+čast
+iskrenost
+hrabrost
+mišljenja
+verovanja
+ideje
+želje i snovi
+ambicije
+lične navike
+lična higijena
+otpornost
+ličnost
+klasa
+kultura
+rekreacija
+tačnost
+velikodušnost
+hrabrost
+odanost
+iskrenost
+ljubaznost
+elokventnost
+širokoumnost
+šarm
+iskrenost
+širokoumnost
 
-origins
-parents
-grandparents
-friends
-family
-family background
-lovers
+poreklo
+roditelji
+babe i dede
+prijatelji
+porodica
+porodična prošlost
+ljubavnici
 

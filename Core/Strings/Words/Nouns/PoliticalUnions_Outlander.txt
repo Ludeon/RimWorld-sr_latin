@@ -1,20 +1,20 @@
 ﻿//Common with tribals
-union
-nation
-confederacy
-confederation
-alliance
-kin league
-covenant
-treaty
-pact
-coalition
+unija
+nacija
+konfederacija
+konfederacija
+savez
+liga srodstva
+sporazum
+ugovor
+pakt
+koalicija
 
 //Outlander specific (different from empire)
-federation
-league
-compact
-accord
-concord
-amalgamation
-unification
+federacija
+liga
+kompakt
+sporazum
+konkorda
+amalgamacija
+ujedinjenje
