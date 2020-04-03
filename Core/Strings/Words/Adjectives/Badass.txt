@@ -1,40 +1,40 @@
-﻿notorious
-deadly
-deep
-poison
-jagged
-loyal
-unstoppable
-animal
-bloody
-stonefaced
-ghostface
-suicidal
-manic
-crazy
-wild
-burning
-murderous
-fearful
-terrifying
-smoky
-nutty
-killer
-dark
-furious
-angry
-savage
-blank
-emotionless
-mindless
-awesome
-epic
-murderous
-supreme
-extreme
-mad
-sharp
-bladed
+﻿ozloglašen
+smrtonosan
+dubok
+otrov
+zupčast
+odan
+nezaustavljiv
+životinjsko
+krvavo
+kamenog lica
+bled k'o sir
+suicidalan
+maničan
+lud
+neobuzdan
+gorući
+ubitačan
+strašljiv
+zastrašujući
+zadimljen
+sulud
+ubica
+mračan
+besan
+ljut
+divljak
+prazan
+bez emocija
+bezuman
+fenomenalan
+epski
+ubitačan
+vrhovni
+ekstreman
+umobolan
+oštar
+sečivast
 
 
 

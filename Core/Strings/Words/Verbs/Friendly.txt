@@ -1,9 +1,9 @@
-laughing
-smiling
-chuckling
-grinning
-beaming
-resting
-looking amused
-looking happy
-looking pleased
+smejanje
+nasmejani
+cerekanje
+keženje
+zračeći
+odmaranje
+izgledati zainteresovano
+izgledati srećno
+izgledati zadovoljno

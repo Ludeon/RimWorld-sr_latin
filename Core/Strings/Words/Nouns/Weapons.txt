@@ -1,61 +1,61 @@
-﻿knife
-dagger
-blade
-shiv
-razor
-scythe
-sickle
+﻿nož
+bodež
+sečivo
+oštrica
+brijač
+kosa
+srp
 
-sword
-sabre
-rapier
-claymore
-scimitar
+mač
+sablja
+rapir
+klejmor
+simitar
 
-spear
-pike
-ikwa
-lance
-bayonet
-javelin
+koplje
+piket
+ikva
+koplje
+bajonet
+koplje
 
-axe
-tomahawk
-hatchet
+sekira
+tomahavka
+sekira
 
-whip
+bič
 
-saw
+testera
 
-club
-hammer
-sledgehammer
-mace
+palica
+čekić
+veliki čekić
+buzdovan
 
-knuckleduster
-gauntlet
+bokser
+oklopne rukavice
 
-dart
-arrow
+strelica
+strela
 
-crossbow
-bow
+samostrel
+luk
 
-gun
-pistol
-rifle
-shotgun
+pištolj
+pištolj
+puška
+sačmara
 revolver
 
-cannon
-mortar
-howitzer
+top
+merzer
+haubica
 
-bomb
-nuke
-landmine
-grenade
+bomba
+nuklearka
+nagazna mina
+granata
 
-missile
-rocket
+projektil
+raketa
 
