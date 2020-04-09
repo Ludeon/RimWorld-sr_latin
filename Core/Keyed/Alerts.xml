@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ClickToJumpToProblem>Click to jump to problem</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Kliknite da skočite do problema</ClickToJumpToProblem>
 
-  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
-  <BreakRiskMajor>Major break risk</BreakRiskMajor>
-  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
-  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
-  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
+  <BreakRiskMinor>Manji rizik od nervnog sloma</BreakRiskMinor>
+  <BreakRiskMajor>Veći rizik od nervnog sloma</BreakRiskMajor>
+  <BreakRiskExtreme>Ogroman rizik od nervnog sloma</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Ovi kolonisti su loše raspoloženi i mogli bi svakog časa doživeti manji nervni slom:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Ovi kolonisti su veoma loše raspoloženi i mogli bi svakog časa doživeti veći nervni slom:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Ovi kolonisti su pod velikim stresom i mogli bi svakog časa doživeti ogroman (i potencijalno nasilan) nervni slom:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Proverite potrebe kolonista kako biste videli šta ih muči.\n\nKako biste oraspoložili koloniste, možete da im spremate lepe obroke, da im dajete više sati dnevno za rekreaciju, kao i bolje rekreacione prostorije. Možete ih smestiti u prelepa okruženja i dozvoliti im da piju i puše i još šta god da im je volja.</BreakRiskDescEnding>
 
-  <ColonistNeedsRescue>Colonist needs rescue</ColonistNeedsRescue>
-  <ColonistsNeedRescue>Colonists need rescue</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.</ColonistsNeedRescueDesc>
+  <ColonistNeedsRescue>Kolonisti je potrebna pomoć</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Kolonistima je potrebna pomoć</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Kolonisti su onesposobljeni na zemlji:\n\n{0}\nPošaljite još jednog kolonistu da im pomogne i odnese ih u krevet.\n\n(Da biste ih spasili, izaberite drugog kolonistu, kliknite desnim klikom na žrtvu i izaberite Spasi.</ColonistsNeedRescueDesc>
 
-  <NeedDefenses>Need defenses</NeedDefenses>
-  <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps.</NeedDefensesDesc>
+  <NeedDefenses>Potrebna odbrana</NeedDefenses>
+  <NeedDefensesDesc>Ovde ste neko vreme i verovatno ste primećeni. Gusari će uskoro početi da pljačkaju.\n\nTrebalo bi pripremiti neku odbranu, poput vreća peska ili zamki.</NeedDefensesDesc>
 
-  <NeedDoctor>Need doctor</NeedDoctor>
-  <NeedDoctorDesc>These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
+  <NeedDoctor>Potreban je Doktor</NeedDoctor>
+  <NeedDoctorDesc>Ovim kolonistima je potrebna medicinska pomoć, ali nijedan kolonista nije na poziciji Doktora.\n\n{0}\nPostavite zdravog kolonistu na poziciju Doktora. Ako ne budu tretirani, rane verovatno nikad neće pravilno zarasti i mogu ostati trajne.</NeedDoctorDesc>
 
-  <NeedMiner>Need miner</NeedMiner>
-  <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
+  <NeedMiner>Potreban je Rudar</NeedMiner>
+  <NeedMinerDesc>Izabrali ste neko kamenje koje treba biti iskopano, ali nijedan kolonista nije Rudar.\n\nPostavite kolonistu na poziciju Rudara.</NeedMinerDesc>
 
-  <NeedWarden>Need warden</NeedWarden>
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWarden>Potreban je Upravnik Zatvora</NeedWarden>
+  <NeedWardenDesc>Imate zatvorenika, ali nijedan kolonista nije Upravnik Zatvora.\n\nPostavite kolonistu na poziciju Upravnika Zatvora.</NeedWardenDesc>
 
-  <LowFood>Low food</LowFood>
-  <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFood>Manjak hrane</LowFood>
+  <LowFoodDesc>Imate opasno niske rezerve hrane.\n\n    Broj mera hrane u zalihama: {0}\n    Kolonisti i zatvorenici dobijaju hrane: {1}\n    Trajanje hrane iz zaliha u danima: {2}\n\nUzgajite, kupite, pronađite ili ubijte nešto za jelo.</LowFoodDesc>
 
-  <LowMedicine>Low medicine</LowMedicine>
-  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
-  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+  <LowMedicine>Manjak lekova</LowMedicine>
+  <LowMedicineDesc>Imate još samo {0} lek(ova) u zalihama.\n\nKupite još lekova od trgovaca.</LowMedicineDesc>
+  <NoMedicineDesc>Nemate više lekova u zalihama.\n\nKupite još lekova od trgovaca.</NoMedicineDesc>
   
-  <NeedColonistBeds>Need colonist beds</NeedColonistBeds>
-  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
+  <NeedColonistBeds>Potrebni kreveti za koloniste</NeedColonistBeds>
+  <NeedColonistBedsDesc>Imate više kolonista nego kreveta za koloniste. Neko neće imati gde da spava.\n\nIli napravite još kreveta, ili neke krevete za zatvorenike prebacite kolonistima.\n\nAko nemate resurse, mesta za spavanje su besplatna i mogu se odmah postaviti.</NeedColonistBedsDesc>
   
-  <AlertColonistLeftUnburied>Colonist left unburied</AlertColonistLeftUnburied>
-  <AlertColonistLeftUnburiedDesc>A colonist is left unburied.\n\nThis may negatively affects your colonists mood.</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburied>Kolonista je nesahranjen</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburiedDesc>Kolonista je ostao nesahranjen.\n\nOvo može uticati negativno na raspoloženje kolonista.</AlertColonistLeftUnburiedDesc>
 
-  <HunterLacksWeapon>Hunter lacks ranged weapon</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.</HunterLacksWeaponDesc>
+  <HunterLacksWeapon>Lovcu nedostaje streljačko oružje</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Kolonista je postavljen za lovca, ali nema streljačko oružje.\n\nOni neće loviti bez streljačkog oružja.</HunterLacksWeaponDesc>
 
-  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+  <AlertTatteredApparel>Poderana odeća</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Ovi kolonisti nose poderanu odeću što ih čini tužnim:\n\n{0}\nNabavite im odeću koja nije toliko oštećena.\n\nMožete im skrojiti odeću na zanatskom mestu, na krojačkom stolu ili je možete kupiti od trgovaca.</AlertTatteredApparelDesc>
 
-  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
-  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudity>Tužna golotinja</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>Ovi kolonisti su goli i nisu srećni povodom toga:\n\n{0}\nNabavite im odeću.\n\nMožete im skrojiti odeću na zanatskom mestu, na krojačkom stolu ili je možete kupiti od trgovaca.</AlertUnhappyNudityDesc>
 
-  <Starvation>Starvation</Starvation>
-  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
+  <Starvation>Glad</Starvation>
+  <StarvationDesc>Ovi kolonisti umiru od gladi:\n\n{0}\nNabavite im hranu.</StarvationDesc>
 
-  <StarvationAnimals>Animal starvation</StarvationAnimals>
-  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+  <StarvationAnimals>Glad životinja</StarvationAnimals>
+  <StarvationAnimalsDesc>Životinje kolonija gladuju:\n\n{0}\nNabavite im hranu.</StarvationAnimalsDesc>
 
-  <Exhaustion>Exhaustion</Exhaustion>
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <Exhaustion>Umor</Exhaustion>
+  <ExhaustionDesc>Ovi kolonisti su umorni i potreban im je odmor:\n\n{0}\nDajte im odmora. Potreban im je krevet za koloniste. Pritom utvrdite da nisu regrutovani.</ExhaustionDesc>
 
-  <NeedFoodHopper>Need food hopper</NeedFoodHopper>
-  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+  <NeedFoodHopper>Potreban rezervoar za hranu</NeedFoodHopper>
+  <NeedFoodHopperDesc>Imate dozator hranljivih sastojaka bez rezervoara za hranu.\n\nDa bi radilo, postavite dozator tako da povlači sirovu hranu iz susednog rezervoara.\n\nNapravite rezervoar pored dozatora.</NeedFoodHopperDesc>
 
-  <NeedMealSource>Need meal source</NeedMealSource>
-  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+  <NeedMealSource>Potreban izvor za obroke</NeedMealSource>
+  <NeedMealSourceDesc>Nemate način da spremite pravi obrok sa sirovom hranom.\n\nNapravite šporet, logorsku vatru ili dozator hranljivih sastojaka.\n\n(To ne može biti u zatvorskoj ćeliji, jer ga tako kolonisti ne mogu koristiti.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Need recreation variety</NeedJoySource>
-  <NeedJoySourceDesc>There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button.</NeedJoySourceDesc>
-  <AvailableRecreationTypes>Available recreation types</AvailableRecreationTypes>
-  <MissingRecreationTypes>Missing recreation types</MissingRecreationTypes>
-  <CurrentExpectationsAndRecreation>At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended.</CurrentExpectationsAndRecreation>
-  <bored>bored</bored>
+  <NeedJoySource>Potrebna raznolikost za rekreaciju</NeedJoySource>
+  <NeedJoySourceDesc>Postoji samo {0} različitih vidova rekreacije u {1}, ali na trenutnom nivou očekivanja ({2}), kolonistima je potrebno {3} različitih vidova rekreacije kako bi ostali zadovoljni. Omogućite raznolikost rekreacije tako što ćete prirediti novi, drugačiji vid rekreacije.\n\n{4}\n\n{5}\n\nNapomena: Možete pogledati vid rekreacije za svaki predmet na njegovoj stranici podataka, pritiskom tastera 'i' .</NeedJoySourceDesc>
+  <AvailableRecreationTypes>Dostupni vidovi rekreacije</AvailableRecreationTypes>
+  <MissingRecreationTypes>Vidovi rekreacije koji nedostaju</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>Po trenutnom očekivanju ({0}), svaka tolerancija pada za {1} po danu. Preporučljivo je imati {2} vid(ov)a rekreacije.</CurrentExpectationsAndRecreation>
+  <bored>dosadno</bored>
 
-  <Boredom>Boredom</Boredom>
-  <BoredomDesc>These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2}</BoredomDesc>
+  <Boredom>Dosada</Boredom>
+  <BoredomDesc>Ovim osobama je potrebna rekreacija ili su već postavljeni za rekreaciju, ali im je svaki dostupan vid rekreacije dosadan:\n\n{0}\n\nOmogućite im raznolikost u rekreaciji.\n\nTrenutno dostupni vidovi rekreacije za {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
-  <NeedBatteries>Need batteries</NeedBatteries>
-  <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
+  <NeedBatteries>Potrebne baterije</NeedBatteries>
+  <NeedBatteriesDesc>Imate solarni ili aero generator, ali nemate baterije. To znači da gubite struju svaki put kad zađe sunce ili kada vetar stane.\n\nSagradite bateriju ili dve kako biste održali struju.</NeedBatteriesDesc>
 
-  <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeapon>Kavgadžija ima streljačko oružje</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Jedan od vaših kolonista ima ličnost Kavgadžije, ali nosi streljačko oružje. Ovo ga neće učiniti srećnim.</BrawlerHasRangedWeaponDesc>
 
-  <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeapon>Korisnik štita ima streljačko oružje</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Jedan od vaših kolonista ima zaštitni pojas i nosi streljačko oružje. Neće moći da pucaju iz oružja kroz štit (osim na mete koje ih već dodiruju).</ShieldUserHasRangedWeaponDesc>
 
-  <NeedResearchProject>Need research project</NeedResearchProject>
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+  <NeedResearchProject>Potreban projekat za istraživanje</NeedResearchProject>
+  <NeedResearchProjectDesc>Imate opremu za istraživanje, ali niste izabrali projekat.\n\nOtvorite meni za istraživanja i izaberite projekat.</NeedResearchProjectDesc>
 
   <ColonistsIdle>{0} colonists idle</ColonistsIdle>
   <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
