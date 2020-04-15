@@ -86,62 +86,62 @@
   <NeedResearchProject>Potreban projekat za istraživanje</NeedResearchProject>
   <NeedResearchProjectDesc>Imate opremu za istraživanje, ali niste izabrali projekat.\n\nOtvorite meni za istraživanja i izaberite projekat.</NeedResearchProjectDesc>
 
-  <ColonistsIdle>{0} colonists idle</ColonistsIdle>
-  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+  <ColonistsIdle>{0} kolonista nema posao</ColonistsIdle>
+  <ColonistsIdleDesc>Ovi kolonisti tumaraju bez posla:\n\n{0}\nTrebalo bi da im nađete neki produktivan posao.</ColonistsIdleDesc>
   
-  <CaravanIdle>Caravan idle</CaravanIdle>
-  <CaravanIdleDesc>These caravans are waiting for you to set their next destination:\n\n{0}</CaravanIdleDesc>
+  <CaravanIdle>Karavan nije upošljen</CaravanIdle>
+  <CaravanIdleDesc>Ovi karavani čekaju da im odredite narednu destinaciju:\n\n{0}</CaravanIdleDesc>
 
-  <ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatment>Kolonistima je potreban tretman</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Ovim kolonistima je potreban medicinski tretman. Bez njega, mogu podleći ranama ili im rane mogu ostati trajne.\n\n{0}\nTretirajte ih tako što ćete ih poslati na medicinski krevet.\n\n(Prvo, dodelite medicinski krevet klikom na običan krevet i prebacite ga u medicinski krevet. Potom, izaberite povređene koloniste i desnim klikom na medicinski krevet ih učinite pacijentima.)</ColonistNeedsTreatmentDesc>
 
-  <AlertHypothermia>Hypothermia</AlertHypothermia>
-  <AlertHypothermiaDesc>These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
+  <AlertHypothermia>Hipotermija</AlertHypothermia>
+  <AlertHypothermiaDesc>Ovi kolonisti pate od hipotermije:\n\n{0}\nPobrinite se da im je odeća prikladna za godišnja doba i da su zatvorene prostorije adekvatno zagrejane.</AlertHypothermiaDesc>
   
-  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} pacijenata čeka na medicinski zahvat</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Ovi pacijenti čekaju na medicinski zahvat:\n\n{0}\nPobrinite se da imate sve potrebne medicinske instrumente, kao i slobodnog Doktora.</PatientsAwaitingMedicalOperationDesc>
 
-  <FireInHomeArea>Fire!</FireInHomeArea>
-  <FireInHomeAreaDesc>There is a fire in the home area.</FireInHomeAreaDesc>
+  <FireInHomeArea>Požar!</FireInHomeArea>
+  <FireInHomeAreaDesc>Požar u zoni kuća.</FireInHomeAreaDesc>
 
-  <PawnsWithLifeThreateningDisease>Medical emergency</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDisease>Medicinska uzbuna</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Ljudi su u životnoj opasnosti zbog nekoliko ozbiljnih bolesti:\n\n{0}\nPobrinite se da dobiju najbolju moguću medicinsku negu.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Ljudi su u životnoj opasnosti zbog nekoliko ozbiljnih bolesti:\n\n{0}\nAko je moguće, razmislite o amputaciji ili zameni inficiranih udova kako bi kolonisti preživeli.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <BilliardsNeedsSpace>Billiards needs space</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpace>Potreban prostor za bilijar</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Jedan od stolova za bilijar je preprečen, što onemogućava kolonistima da ga koriste.\n\nStolu za bilijar je potreban prostor sa svih strana da bi se mogao koristiti.</BilliardsNeedsSpaceDesc>
 
-  <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeapon>Lovac ima štit i streljačko oružje</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Jedan od vaših lovaca koristi streljačko oružje i nosi zaštitni pojas, što ga sprečava da puca sa daljine.\n\nOni neće moći da love dok ne skinu štit.</HunterHasShieldAndRangedWeaponDesc>
 
-  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
-  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+  <NeedWarmClothes>Potrebna je topla odeća</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Bar {0} vaših kolonista neće imati toplu odeću kada dođu hladna godišnja doba.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Niko od vaših kolonista neće imati toplu odeću kada dođu hladna godišnja doba.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Spoljašnja temperatura će dostići {0}.\n\nToplu odeću možete skrojiti na krojačkom stolu, ili je kupiti od trgovaca.</NeedWarmClothesDesc2>
 
-  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
-  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
+  <ImmobileCaravan>Nepokretan karavan</ImmobileCaravan>
+  <ImmobileCaravanDesc>Jedan od vaših karavana je nepokretan jer je preopterećen.\n\nMožete karavan učiniti pokretnim tako što ćete napustiti neke predmete iz liste PREDMETI.</ImmobileCaravanDesc>
 
-  <BuildingCantBeUsedRoofed>Building unusable due to roof</BuildingCantBeUsedRoofed>
-  <BuildingCantBeUsedRoofedDesc>One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof.</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofed>Gradnja je onemogućena zbog krova</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofedDesc>Jedna ili više vaših građevina se može koristiti samo ako nema krov, ali ova(e) ipak ima(ju) krov. Građevina(e) se neće moći koristiti dok se ne otkloni krov.</BuildingCantBeUsedRoofedDesc>
 
-  <AlertHeatstroke>Heatstroke</AlertHeatstroke>
-  <AlertHeatstrokeDesc>The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door.</AlertHeatstrokeDesc>
+  <AlertHeatstroke>Toplotni udar</AlertHeatstroke>
+  <AlertHeatstrokeDesc>Ovi ljudi su doživeli toplotni udar:\n\n{0}\nOdvedite ih na hladnije mesto. Možete rashladiti sobe pasivnim ili električnim rashladnim telima. Prostorije duboko pod zemljom su prirodno hladne ako su vratima odvojene od spoljašnjosti.</AlertHeatstrokeDesc>
 
-  <QuestPartMoodBelowThreshold>Guest unhappy</QuestPartMoodBelowThreshold>
-  <QuestPartMoodBelowThresholdDesc>The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1}</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThreshold>Gost je nezadovoljan</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThresholdDesc>Gost {0} zahteva da ovu osobu održavate u dobrom raspoloženju. Međutim, njihovo raspoloženje je loše. Učinite nešto kako biste ih oraspoložili:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
-  <QuestPartShuttleLeaveDelay>Shuttle leaving in {0}</QuestPartShuttleLeaveDelay>
-  <QuestPartShuttleLeaveDelayDesc>The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelay>Šatl odlazi za {0}</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelayDesc>Šatl će krenuti za {1}. Gost {0} zahteva da se sledeći ljudi ukrcaju ili predmeti natovare na šatl pre nego što on ode:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
 
-  <DisallowedBuildingInsideMonument>Monument will be destroyed</DisallowedBuildingInsideMonument>
-  <DisallowedBuildingInsideMonumentDesc>You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}.</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonument>Spomenik će biti uništen</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonumentDesc>Sagradili ste nedozvoljenu građevinu unutar spomenika. Spomenik će se smatrati uništenim za {0}.</DisallowedBuildingInsideMonumentDesc>
 
-  <ActivatorCountdown>Countdown activator {0}</ActivatorCountdown>
-  <ActivatorCountdownDesc>There is a countdown activator ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDesc>
-  <ActivatorCountdownMultiple>{0} countdown activators</ActivatorCountdownMultiple>
-  <ActivatorCountdownDescMultiple>There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDescMultiple>
+  <ActivatorCountdown>Aktivator za odbrojavanje {0}</ActivatorCountdown>
+  <ActivatorCountdownDesc>Uključen je aktivator za odbrojavanje, koji uveliko odbrojava do buđenja mehanoida.</ActivatorCountdownDesc>
+  <ActivatorCountdownMultiple>{0} aktivatora za odbrojavanje</ActivatorCountdownMultiple>
+  <ActivatorCountdownDescMultiple>Postoji {0} aktivatora za odbrojavanje, koji uveliko odbrojavaju do buđenja mehanoida.</ActivatorCountdownDescMultiple>
 
-  <QuestExpiresSoon>Quest expires in {0}</QuestExpiresSoon>
-  <QuestExpiresSoonDesc>The quest '{0}' will expire in {1}.</QuestExpiresSoonDesc>
+  <QuestExpiresSoon>Zadatak ističe za {0}</QuestExpiresSoon>
+  <QuestExpiresSoonDesc>Zadatak '{0}' će isteći za {1}.</QuestExpiresSoonDesc>
 </LanguageData>
