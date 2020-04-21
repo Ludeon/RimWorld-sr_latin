@@ -1,93 +1,93 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Tool>Tool</Tool>
-  <DamageLower>damage</DamageLower>
-  <SecondsPerAttackLower>seconds per attack</SecondsPerAttackLower>
+  <Tool>Alat</Tool>
+  <DamageLower>oštećenje</DamageLower>
+  <SecondsPerAttackLower>sekundi po napadu</SecondsPerAttackLower>
 
-  <StatsReport_BaseValue>Base value</StatsReport_BaseValue>
-  <StatsReport_RelevantTraits>Relevant traits</StatsReport_RelevantTraits>
-  <StatsReport_RelevantGear>Relevant gear</StatsReport_RelevantGear>
-  <StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
-  <StatsReport_LifeStage>Life stage</StatsReport_LifeStage>
-  <StatsReport_Material>Material</StatsReport_Material>
-  <StatsReport_CharacterQuality>Character quality</StatsReport_CharacterQuality>
-  <StatsReport_Skills>Skills</StatsReport_Skills>
-  <StatsReport_OtherStats>Post-process - other stats</StatsReport_OtherStats>
-  <StatsReport_Health>Health</StatsReport_Health>
-  <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
-  <HealthOffsetScale>{0} impact</HealthOffsetScale>
-  <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
-  <HealthFactorAllowedDefect>if below {0}</HealthFactorAllowedDefect>
-  <StatsReport_PostProcessed>Post-process curve</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>Final value</StatsReport_FinalValue>
-  <StatsReport_MarketValueFromStuffsAndWork>Materials and labor</StatsReport_MarketValueFromStuffsAndWork>
-  <StatsReport_QualityMultiplier>Quality multiplier</StatsReport_QualityMultiplier>
-  <StatsReport_MaxGain>Max gain</StatsReport_MaxGain>
-  <StatsReport_AgeMultiplier>Multiplier for age {0}</StatsReport_AgeMultiplier>
-  <StatsReport_HealthMultiplier>Multiplier for health {0}</StatsReport_HealthMultiplier>
-  <StatsReport_MoodMultiplier>Multiplier for mood {0}</StatsReport_MoodMultiplier>
-  <StatsReport_LightMultiplier>Multiplier for light {0}</StatsReport_LightMultiplier>
-  <StatsReport_DifficultyMultiplier>Multiplier for difficulty {0}</StatsReport_DifficultyMultiplier>
-  <StatsReport_InBed>In bed</StatsReport_InBed>
-  <StatsReport_Facilities>Facilities</StatsReport_Facilities>
-  <StatsReport_BodySize>Multiplier for body size {0}</StatsReport_BodySize>
-  <StatsReport_MeleeDPSExplanation>DPS = Melee damage * Melee hit chance / Cooldown in seconds</StatsReport_MeleeDPSExplanation>
-  <StatsReport_MeleeDamage>Melee damage</StatsReport_MeleeDamage>
-  <StatsReport_Cooldown>Cooldown</StatsReport_Cooldown>
-  <StatsReport_MeleeHitChance>Melee hit chance</StatsReport_MeleeHitChance>
+  <StatsReport_BaseValue>Osnovna vrednost</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Bitne osobine</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Bitna oprema</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>Bitna stanja života</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>Stadijum života</StatsReport_LifeStage>
+  <StatsReport_Material>Materijal</StatsReport_Material>
+  <StatsReport_CharacterQuality>Kvalitet karaktera</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Veštine</StatsReport_Skills>
+  <StatsReport_OtherStats>Post-postupak - druge stavke</StatsReport_OtherStats>
+  <StatsReport_Health>Život</StatsReport_Health>
+  <HealthFactorPercentImpact>{0} važnosti</HealthFactorPercentImpact>
+  <HealthOffsetScale>{0} udar</HealthOffsetScale>
+  <HealthFactorMaxImpact>{0} maksimum</HealthFactorMaxImpact>
+  <HealthFactorAllowedDefect>ako je ispod {0}</HealthFactorAllowedDefect>
+  <StatsReport_PostProcessed>Post-postupak krivina</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Konačna vrednost</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Materijali i rad</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Multiplikator kvaliteta</StatsReport_QualityMultiplier>
+  <StatsReport_MaxGain>Maksimalna dobit</StatsReport_MaxGain>
+  <StatsReport_AgeMultiplier>Multiplikator za uzrast {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Multiplikator za život {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Multiplikator za raspoloženje {0}</StatsReport_MoodMultiplier>
+  <StatsReport_LightMultiplier>Multiplikator za svetlost {0}</StatsReport_LightMultiplier>
+  <StatsReport_DifficultyMultiplier>Multiplikator za težinu {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>U krevetu</StatsReport_InBed>
+  <StatsReport_Facilities>Prostorije</StatsReport_Facilities>
+  <StatsReport_BodySize>Multiplikator za veličinu tela {0}</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>OPS = oštećenje na blizinu * šansa udarca na blizinu / Period čekanja u sekundama</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Oštećenje na blizinu</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>Period čekanja</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Šansa udarca na blizinu</StatsReport_MeleeHitChance>
   <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
-  <StatsReport_LifeExpectancy>Life expectancy</StatsReport_LifeExpectancy>
-  <StatsReport_MissingBodyParts>Multiplier for missing body parts</StatsReport_MissingBodyParts>
-  <StatsReport_GearAndInventoryMass>Gear and inventory</StatsReport_GearAndInventoryMass>
-  <StatsReport_WornByCorpse>Multiplier for worn by corpse</StatsReport_WornByCorpse>
-  <AverageOfAllAttacks>average of all attacks</AverageOfAllAttacks>
+  <StatsReport_LifeExpectancy>Očekivano trajanje života</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Multiplikator za delove tela koji nedostaju</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>Oprema i inventar</StatsReport_GearAndInventoryMass>
+  <StatsReport_WornByCorpse>Multiplikator za iznošeno od leša</StatsReport_WornByCorpse>
+  <AverageOfAllAttacks>prosek svih napada</AverageOfAllAttacks>
   <StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
-  <StatsReport_IngredientsMass>Ingredients</StatsReport_IngredientsMass>
-  <StatsReport_PermanentlyDisabled>Permanently disabled.</StatsReport_PermanentlyDisabled>
+  <StatsReport_IngredientsMass>Sastojci</StatsReport_IngredientsMass>
+  <StatsReport_PermanentlyDisabled>Trajno onemogućeno.</StatsReport_PermanentlyDisabled>
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
-  <StatsReport_AddedBodyPartsMass>Added body parts</StatsReport_AddedBodyPartsMass>
-  <StatsReport_StuffEffectMultiplier>Material effect multiplier</StatsReport_StuffEffectMultiplier>
-  <StatsReport_Resting>Resting</StatsReport_Resting>
-  <StatsReport_JoyKind>recreation type</StatsReport_JoyKind>
-  <StatsReport_WorkToUninstall>work to uninstall</StatsReport_WorkToUninstall>
-  <StatsReport_PlantGrowth>Multiplier for growth {0}</StatsReport_PlantGrowth>
-  <StatsReport_PlantGrowth_Wild>scaled because wild</StatsReport_PlantGrowth_Wild>
-  <StatsReport_NotFlesh>Not flesh</StatsReport_NotFlesh>
-  <StatsReport_NotFresh>Not fresh</StatsReport_NotFresh>
-  <StatsReport_WildMan>Wild man</StatsReport_WildMan>
-  <StatsReport_NonToolAttack>Attack</StatsReport_NonToolAttack>
+  <StatsReport_AddedBodyPartsMass>Dodati delovi tela</StatsReport_AddedBodyPartsMass>
+  <StatsReport_StuffEffectMultiplier>Multiplikator efekta materijala</StatsReport_StuffEffectMultiplier>
+  <StatsReport_Resting>Odmaranje</StatsReport_Resting>
+  <StatsReport_JoyKind>tip rekreacije</StatsReport_JoyKind>
+  <StatsReport_WorkToUninstall>radi da ukloniš</StatsReport_WorkToUninstall>
+  <StatsReport_PlantGrowth>Multiplikator za rast {0}</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth_Wild>skalirano zbog divljine</StatsReport_PlantGrowth_Wild>
+  <StatsReport_NotFlesh>Nije meso</StatsReport_NotFlesh>
+  <StatsReport_NotFresh>Nije sveže</StatsReport_NotFresh>
+  <StatsReport_WildMan>Divlji čovek</StatsReport_WildMan>
+  <StatsReport_NonToolAttack>Napad</StatsReport_NonToolAttack>
 
-  <Stat_MineableThing_Name>Mined item</Stat_MineableThing_Name>
-  <Stat_MineableThing_Desc>The item that will be yielded when mining this.</Stat_MineableThing_Desc>
-  <Stat_SourceSpecies_Name>Source species</Stat_SourceSpecies_Name>
-  <Stat_SourceSpecies_Desc>The species of creature from which this was taken.</Stat_SourceSpecies_Desc>
-  <Stat_Stuff_Name>Stuff</Stat_Stuff_Name>
-  <Stat_Stuff_Desc>The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more.</Stat_Stuff_Desc>
-  <Stat_Weapon_Name>Weapon</Stat_Weapon_Name>
-  <Stat_Weapon_Desc>The weapon used by this turret.</Stat_Weapon_Desc>
-  <Stat_HitPoints_Desc>How much damage an object can take before being destroyed.</Stat_HitPoints_Desc>
-  <Stat_Thing_WorkToUninstall_Desc>The amount of work it takes to uninstall this.</Stat_Thing_WorkToUninstall_Desc>
-  <Stat_Thing_CreatedAt_Desc>Which facilities can be used to produce this.</Stat_Thing_CreatedAt_Desc>
-  <Stat_Thing_Damage_Desc>The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor.</Stat_Thing_Damage_Desc>
-  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>A multiplier on the amount of experience doctors gain when using this to tend a patient.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
-  <Stat_Thing_Plant_Attributes_Desc>The attributes of this plant.</Stat_Thing_Plant_Attributes_Desc>
-  <Stat_Thing_Apparel_Covers_Desc>Which body parts this covers.\n\nArmor does not protect body parts that it does not cover.</Stat_Thing_Apparel_Covers_Desc>
-  <Stat_Thing_Apparel_Layer_Desc>Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer.</Stat_Thing_Apparel_Layer_Desc>
-  <Stat_Thing_Plant_FertilityRequirement_Desc>The minimum soil fertility that this plant requires to grow.</Stat_Thing_Plant_FertilityRequirement_Desc>
-  <Stat_Thing_Plant_FertilitySensitivity_Desc>How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil.</Stat_Thing_Plant_FertilitySensitivity_Desc>
-  <Stat_Thing_Plant_LightRequirement_Desc>The amount of light this plant requires to grow.</Stat_Thing_Plant_LightRequirement_Desc>
-  <Stat_Thing_Plant_LifeSpan_Desc>The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested.</Stat_Thing_Plant_LifeSpan_Desc>
-  <Stat_Thing_Plant_HarvestYield_Desc>The amount of product this plant will yield when harvested.</Stat_Thing_Plant_HarvestYield_Desc>
-  <Stat_Thing_Plant_MinGrowthTemperature_Desc>The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
-  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
-  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>The minimum skill needed for a farmer to to sow this plant.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
-  <Stat_Race_Diet_Desc>The kinds of food this creature is capable of eating.\n\nCan eat: {0}</Stat_Race_Diet_Desc>
-  <Stat_Race_LeatherType_Desc>The type of leather this creature will yield when butchered.</Stat_Race_LeatherType_Desc>
-  <Stat_Race_Animal_TameFailedRevengeChance_Desc>The chance that this creature will attack when a tamer tries to tame it and fails.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
-  <Stat_Race_Trainability_Desc>This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform.</Stat_Race_Trainability_Desc>
-  <Stat_Race_LifeExpectancy_Desc>The average life expectancy of this creature.</Stat_Race_LifeExpectancy_Desc>
-  <Stat_Thing_Ingestible_Joy_Desc>The recreational value of ingesting this. Higher numbers will fulfill the recreation need more.</Stat_Thing_Ingestible_Joy_Desc>
+  <Stat_MineableThing_Name>Iskopani predmet</Stat_MineableThing_Name>
+  <Stat_MineableThing_Desc>Predmet koji će se dobiti kada se ovo iskopa.</Stat_MineableThing_Desc>
+  <Stat_SourceSpecies_Name>Vrste izvora</Stat_SourceSpecies_Name>
+  <Stat_SourceSpecies_Desc>Vrsta stvorenja od koje je ovo uzeto.</Stat_SourceSpecies_Desc>
+  <Stat_Stuff_Name>Stvari</Stat_Stuff_Name>
+  <Stat_Stuff_Desc>Stvari od kojih je sačinjeno ovo. Ovo utiče na druge stavke, uključujući jačinu oštećenja oružja, odevni oklop i izolaciju, predmet i tačke udarca građevine, lepotu, tržišnu vrednost, itd.</Stat_Stuff_Desc>
+  <Stat_Weapon_Name>Oružje</Stat_Weapon_Name>
+  <Stat_Weapon_Desc>Oružje koje koristi ovaj top.</Stat_Weapon_Desc>
+  <Stat_HitPoints_Desc>Koliko oštećenja može predmet primiti pre nego što je uništen.</Stat_HitPoints_Desc>
+  <Stat_Thing_WorkToUninstall_Desc>Količina posla koja je potrebna da se ovo ukloni.</Stat_Thing_WorkToUninstall_Desc>
+  <Stat_Thing_CreatedAt_Desc>Koje prostorije se mogu koristiti za proizvodnju ovoga.</Stat_Thing_CreatedAt_Desc>
+  <Stat_Thing_Damage_Desc>Količina oštećenja koju ovo oružje zadaje.\n\nOvo može biti odbijeno ili ublaženo oklopom mete.</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Multiplikator za količinu iskustva koju doktori dobijaju kada tretiraju pacijenta.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <Stat_Thing_Plant_Attributes_Desc>Osobine biljke.</Stat_Thing_Plant_Attributes_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>Koje delove tela ovo pokriva.\n\nOklop ne štiti one delove tela koje ne pokriva.</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Layer_Desc>Koji slojevi odeće to ispunjavaju.\n\nZa izabrani deo tela, samo jedan komad odeće se može nositi na svakom sloju.</Stat_Thing_Apparel_Layer_Desc>
+  <Stat_Thing_Plant_FertilityRequirement_Desc>Minimalna plodnost zemlje koja je potrebna ovoj biljci da raste.</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>Koliko je ova biljka osetljiva na plodnost zemljišta.\n\nNiska osetljivost označava da će biljka rasti otprilike istom brzinom na bogatom i na osiromašenom zemljištu. Visoka osetljivost označava da će biljka rasti sporije na osiromašenom, a brže na bogatom zemljištu.</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <Stat_Thing_Plant_LightRequirement_Desc>Količina svetlosti potrebna ovoj biljci da raste.</Stat_Thing_Plant_LightRequirement_Desc>
+  <Stat_Thing_Plant_LifeSpan_Desc>Životni vek ove biljke.\n\nBiljke umiru prirodno kada dostignu određenu starost, čak iako se ne uberu.</Stat_Thing_Plant_LifeSpan_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>Količina ploda koja će biti ubrana kada se biljka požanje.</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>Minimalna temperatura na kojoj biljka može preživeti.\n\nNiže temperature mogu vremenom oštetiti biljku.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>Maksimalna temperatura na kojoj biljka može preživeti.\n\nViše temperature mogu vremenom oštetiti biljku.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>Minimalne veštine potrebne da farmer poseje ovu biljku.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <Stat_Race_Diet_Desc>Koliko vrsta hrane ovo stvorenje može jesti.\n\nMože jesti: {0}</Stat_Race_Diet_Desc>
+  <Stat_Race_LeatherType_Desc>Vrsta kože koju će dati ova životinja kada bude ubijena.</Stat_Race_LeatherType_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>Šansa da će ovo stvorenje napasti krotitelja ukoliko on omane u pripitomljavanju. </Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Trainability_Desc>Mentalni sklop ovog stvorenja povodom treninga. Ovo je kombinacija inteligencije i pažljivosti. Određuje za koju vrstu zadataka se ovo stvorenje može trenirati.</Stat_Race_Trainability_Desc>
+  <Stat_Race_LifeExpectancy_Desc>Prosečni životni vek ovog stvorenja.</Stat_Race_LifeExpectancy_Desc>
+  <Stat_Thing_Ingestible_Joy_Desc>Rekreaciona vrednost uzimanja ovoga. Veći brojevi će više zasititi rekreacione potrebe.</Stat_Thing_Ingestible_Joy_Desc>
   <Stat_Race_BodySize_Desc>The size of this creature's body, compared to an average adult human.</Stat_Race_BodySize_Desc>
   <Stat_Thing_Weapon_MeleeWarmupTime_Desc>How much time passes between when a melee attack with this weapon begins and when it hits.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <Stat_Thing_Weapon_BurstShotCount_Desc>The amount of shots this weapon fires in each burst.</Stat_Thing_Weapon_BurstShotCount_Desc>
