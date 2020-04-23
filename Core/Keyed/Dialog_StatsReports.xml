@@ -88,50 +88,50 @@
   <Stat_Race_Trainability_Desc>Mentalni sklop ovog stvorenja povodom treninga. Ovo je kombinacija inteligencije i pažljivosti. Određuje za koju vrstu zadataka se ovo stvorenje može trenirati.</Stat_Race_Trainability_Desc>
   <Stat_Race_LifeExpectancy_Desc>Prosečni životni vek ovog stvorenja.</Stat_Race_LifeExpectancy_Desc>
   <Stat_Thing_Ingestible_Joy_Desc>Rekreaciona vrednost uzimanja ovoga. Veći brojevi će više zasititi rekreacione potrebe.</Stat_Thing_Ingestible_Joy_Desc>
-  <Stat_Race_BodySize_Desc>The size of this creature's body, compared to an average adult human.</Stat_Race_BodySize_Desc>
-  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>How much time passes between when a melee attack with this weapon begins and when it hits.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
-  <Stat_Thing_Weapon_BurstShotCount_Desc>The amount of shots this weapon fires in each burst.</Stat_Thing_Weapon_BurstShotCount_Desc>
-  <Stat_Thing_Weapon_BurstShotFireRate_Desc>The fire rate of this weapon during each burst.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
-  <Stat_Thing_Weapon_Range_Desc>The maximum range of this weapon.</Stat_Thing_Weapon_Range_Desc>
-  <Stat_Thing_Weapon_MissRadius_Desc>The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target.</Stat_Thing_Weapon_MissRadius_Desc>
-  <Stat_Thing_Weapon_DirectHitChance_Desc>The chance that a shot will directly hit its target if not intercepted, dodged or stopped.</Stat_Thing_Weapon_DirectHitChance_Desc>
-  <Stat_Thing_MoodChange_Desc>This body part's effect on the mood of the owner.</Stat_Thing_MoodChange_Desc>
-  <Stat_Recipe_Skill_Desc>The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe.</Stat_Recipe_Skill_Desc>
-  <Stat_Recipe_Ingredients_Desc>The ingredients required to perform this recipe.</Stat_Recipe_Ingredients_Desc>
-  <Stat_Recipe_SkillRequirements_Desc>The skills required to perform this recipe.</Stat_Recipe_SkillRequirements_Desc>
-  <Stat_Recipe_Products_Desc>The products produced by this recipe.</Stat_Recipe_Products_Desc>
-  <Stat_Recipe_WorkSpeedStat_Desc>Which character stat governs the workspeed of this recipe.\n\nThe higher the stat of the worker is, the faster work will be done.</Stat_Recipe_WorkSpeedStat_Desc>
-  <Stat_Recipe_EfficiencyStat_Desc>Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be.</Stat_Recipe_EfficiencyStat_Desc>
-  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>Can't fail</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>Performing this operation is safe for the patient.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
-  <Stat_Thing_Surgery_DeathOnFailChance_Desc>The chance the patient will die upon failure of this surgery.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
-  <Stat_Thing_Drug_Addictiveness_Desc>The addictiveness of this drug.</Stat_Thing_Drug_Addictiveness_Desc>
-  <Stat_Hediff_TotalBleedFactor_Name>Total bleed factor</Stat_Hediff_TotalBleedFactor_Name>
-  <Stat_Hediff_TotalBleedFactor_Desc>A multiplier applied to the overall rate of blood loss.</Stat_Hediff_TotalBleedFactor_Desc>
-  <Stat_Hediff_NaturalHealingFactor_Name>Natural healing factor</Stat_Hediff_NaturalHealingFactor_Name>
-  <Stat_Hediff_NaturalHealingFactor_Desc>A multiplier applied to the overall rate of natural wound healing.</Stat_Hediff_NaturalHealingFactor_Desc>
-  <Stat_Hediff_FoodPoisoningChanceFactor_Name>Food poisoning chance factor</Stat_Hediff_FoodPoisoningChanceFactor_Name>
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>A multiplier applied to the chance of accidentally cooking a meal with food poisoning.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
-  <Stat_Hediff_BleedingRate_Desc>The rate at which this condition is drains blood.</Stat_Hediff_BleedingRate_Desc>
-  <Stat_Hediff_Pain_Desc>The amount of pain caused by this condition.</Stat_Hediff_Pain_Desc>
-  <Stat_Hediff_PartEfficiency_Desc>The offset in efficiency applied to body parts affected by this.</Stat_Hediff_PartEfficiency_Desc>
-  <Stat_Hediff_Affects_Desc>The mental abilities this affects.</Stat_Hediff_Affects_Desc>
-  <Stat_Hediff_HungerRateOffset_Name>Hunger rate offset</Stat_Hediff_HungerRateOffset_Name>
-  <Stat_Hediff_HungerRateFactor_Desc>A multiplier on the rate at which the food need depletes.</Stat_Hediff_HungerRateFactor_Desc>
-  <Stat_Hediff_HungerRateOffset_Desc>An offset on the rate at which the food need depletes.</Stat_Hediff_HungerRateOffset_Desc>
-  <Stat_Hediff_TirednessOffset_Name>Rest fall rate</Stat_Hediff_TirednessOffset_Name>
-  <Stat_Hediff_TirednessOffset_Desc>An offset applied to the rate at which the creatures rest need falls.</Stat_Hediff_TirednessOffset_Desc>
-  <Stat_Hediff_TirednessFactor_Desc>A multiplier applied to the rate at which the creatures rest need falls.</Stat_Hediff_TirednessFactor_Desc>
-  <Stat_Hediff_PreventsInfection_Desc>Whether or not this will prevent infections.</Stat_Hediff_PreventsInfection_Desc>
-  <Stat_Thing_Terrain_Supports_Desc>The things this terrain supports.</Stat_Thing_Terrain_Supports_Desc>
-  <Stat_Thing_TerrainRequirement_Desc>This can only be placed on terrain of these types.</Stat_Thing_TerrainRequirement_Desc>
-  <Stat_Thing_Terrain_Fine_Name>Considered</Stat_Thing_Terrain_Fine_Name>
-  <Stat_Thing_Terrain_Fine_Value>Fine</Stat_Thing_Terrain_Fine_Value>
-  <Stat_Thing_Terrain_Fine_Desc>This floor is considered fine and suitable for royalty.</Stat_Thing_Terrain_Fine_Desc>
-  <Stat_Thing_PowerConsumption_Desc>The amount of power this building will draw from the power grid.</Stat_Thing_PowerConsumption_Desc>
-  <Stat_Thing_BodyPartEfficiency_Desc>The overall efficiency of this body part.</Stat_Thing_BodyPartEfficiency_Desc>
-  <Stat_Thing_Weapon_Biocoded_Name>Biocoding</Stat_Thing_Weapon_Biocoded_Name>
-  <Stat_Thing_Weapon_Biocoded_Desc>This item has been coded to only accept a particular individual's bio-signature.</Stat_Thing_Weapon_Biocoded_Desc>
+  <Stat_Race_BodySize_Desc>Veličina ovog stvorenja u poređenju sa prosečnom odraslom osobom.</Stat_Race_BodySize_Desc>
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Koliko vremena protekne između početka napada na blizinu ovim oružjem i samog pogotka.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <Stat_Thing_Weapon_BurstShotCount_Desc>Količina hitaca koju ovo oružje ispaljuje pri svakom rafalu.</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>Brzina ispaljivanja ovog oružja pri svakom rafalu.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <Stat_Thing_Weapon_Range_Desc>Maksimalni domet ovog oružja.</Stat_Thing_Weapon_Range_Desc>
+  <Stat_Thing_Weapon_MissRadius_Desc>Prečnik nasumičnog rasipanja hitaca ovog oružja.\n\nVisoke vrednosti čine da se projektili nasumično rasipaju oko mete.</Stat_Thing_Weapon_MissRadius_Desc>
+  <Stat_Thing_Weapon_DirectHitChance_Desc>Šansa da hitac direktno pogodi metu, ako ne bude presretnut, izbegnut ili zaustavljen.</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <Stat_Thing_MoodChange_Desc>Uticaj ovog dela tela na raspoloženje vlasnika.</Stat_Thing_MoodChange_Desc>
+  <Stat_Recipe_Skill_Desc>Glavna veština koja se koristi prilikom izvođenja ovog recepta.\n\nOdređuje kvalitet rezultata i uči se pri izvođenju recepta.</Stat_Recipe_Skill_Desc>
+  <Stat_Recipe_Ingredients_Desc>Sastojci potrebni za ovaj recept.</Stat_Recipe_Ingredients_Desc>
+  <Stat_Recipe_SkillRequirements_Desc>Veštine potrebne za ovaj recept.</Stat_Recipe_SkillRequirements_Desc>
+  <Stat_Recipe_Products_Desc>Proizvodi stvoreni ovim receptom.</Stat_Recipe_Products_Desc>
+  <Stat_Recipe_WorkSpeedStat_Desc>Koja karakteristika lika nadgleda brzinu izrade ovog recepta.\n\nŠto je veća karakteristika radnika, to će posao biti brže završen.</Stat_Recipe_WorkSpeedStat_Desc>
+  <Stat_Recipe_EfficiencyStat_Desc>Koja karakteristika nadgleda kvalitet ili količinu dobijenog proizvoda.\n\nŠto je veća karakteristika radnika, to je veći kvalitet ili količina.</Stat_Recipe_EfficiencyStat_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>Multiplikator šanse da će operacija biti uspešna. Teže operacije imaju manje multiplikatore.\n\nStvarna šansa za uspešnost zavisi od doktora, prostorija i korišćenih lekova.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>Ne sme se omanuti</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>Izvođenje ove operacije je bezbedno za pacijenta.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>Šansa da će pacijent umreti ako operacija ne uspe.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <Stat_Thing_Drug_Addictiveness_Desc>Zavisnost stvorena ovim lekom.</Stat_Thing_Drug_Addictiveness_Desc>
+  <Stat_Hediff_TotalBleedFactor_Name>Faktor krvarenja</Stat_Hediff_TotalBleedFactor_Name>
+  <Stat_Hediff_TotalBleedFactor_Desc>Multiplikator za ukupan gubitak krvi.</Stat_Hediff_TotalBleedFactor_Desc>
+  <Stat_Hediff_NaturalHealingFactor_Name>Prirodni faktor isceljenja</Stat_Hediff_NaturalHealingFactor_Name>
+  <Stat_Hediff_NaturalHealingFactor_Desc>Multiplikator za ukupan prirodni faktor isceljenja rana.</Stat_Hediff_NaturalHealingFactor_Desc>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>Faktor šanse trovanja hranom</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>Multiplikator šanse za slučajno kuvanje hrane koja može izazvati trovanje.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <Stat_Hediff_BleedingRate_Desc>Stopa krvarenja pri ovom stanju.</Stat_Hediff_BleedingRate_Desc>
+  <Stat_Hediff_Pain_Desc>Količina bola izazvana ovim stanjem.</Stat_Hediff_Pain_Desc>
+  <Stat_Hediff_PartEfficiency_Desc>Kompenzacija efikasnosti delova tela koji su time pogođeni.</Stat_Hediff_PartEfficiency_Desc>
+  <Stat_Hediff_Affects_Desc>Mentalne sposobnosti na koje ovo utiče.</Stat_Hediff_Affects_Desc>
+  <Stat_Hediff_HungerRateOffset_Name>Kompenzacija stope gladi</Stat_Hediff_HungerRateOffset_Name>
+  <Stat_Hediff_HungerRateFactor_Desc>Multiplikator stope pri kojoj se hrana troši.</Stat_Hediff_HungerRateFactor_Desc>
+  <Stat_Hediff_HungerRateOffset_Desc>Kompenzacija stope pri kojoj se potreba hrane smanjuje.</Stat_Hediff_HungerRateOffset_Desc>
+  <Stat_Hediff_TirednessOffset_Name>Stopa pada odmora</Stat_Hediff_TirednessOffset_Name>
+  <Stat_Hediff_TirednessOffset_Desc>Kompenzacija stope pri kojoj stvorenjima opada stopa odmora.</Stat_Hediff_TirednessOffset_Desc>
+  <Stat_Hediff_TirednessFactor_Desc>Multiplikator stope pri kojoj stvorenjima opada stopa odmora.</Stat_Hediff_TirednessFactor_Desc>
+  <Stat_Hediff_PreventsInfection_Desc>Informacija da li će ovo sprečiti infekciju ili ne.</Stat_Hediff_PreventsInfection_Desc>
+  <Stat_Thing_Terrain_Supports_Desc>Stvari koje ovaj teren podržava.</Stat_Thing_Terrain_Supports_Desc>
+  <Stat_Thing_TerrainRequirement_Desc>Ovo se može postaviti samo na terenima ovih tipova.</Stat_Thing_TerrainRequirement_Desc>
+  <Stat_Thing_Terrain_Fine_Name>Uzeto u obzir</Stat_Thing_Terrain_Fine_Name>
+  <Stat_Thing_Terrain_Fine_Value>Fin</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Desc>Ovaj pod se smatra finim i dostojnim plemstva.</Stat_Thing_Terrain_Fine_Desc>
+  <Stat_Thing_PowerConsumption_Desc>Količina struje koju će ova građevina povući sa glavne mreže.</Stat_Thing_PowerConsumption_Desc>
+  <Stat_Thing_BodyPartEfficiency_Desc>Ukupna efikasnost ovog dela tela.</Stat_Thing_BodyPartEfficiency_Desc>
+  <Stat_Thing_Weapon_Biocoded_Name>Biokodiranje</Stat_Thing_Weapon_Biocoded_Name>
+  <Stat_Thing_Weapon_Biocoded_Desc>Ovaj predmet je kodiran tako da prihvata samo bio-potpis određene osobe.</Stat_Thing_Weapon_Biocoded_Desc>
 
 </LanguageData>
