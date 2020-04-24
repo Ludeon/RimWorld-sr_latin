@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Confirm>Confirm</Confirm>
-  <GoBack>Go back</GoBack>
+  <Confirm>Potvrdi</Confirm>
+  <GoBack>Nazad</GoBack>
   <OK>OK</OK>
-  <Close>Close</Close>
+  <Close>Zatvori</Close>
   
   <!-- Game updated to new version -->
-  <GameUpdatedToNewVersionInitial>RimWorld has been updated from version {0} to version {1}.</GameUpdatedToNewVersionInitial>
-  <GameUpdatedToNewVersionSavesIncompatible>This may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionSavesIncompatible>
-  <GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
-  <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
-  <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionInitial>RimWorld je ažurirana sa verzije {0} na verziju {1}.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>Sačuvane igre i modovi sa starije verzije možda neće raditi zbog ovoga.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>Trebalo bi da sačuvane igre sa starije verzije budu kompatibilne, ali neki modovi možda ne budu radili.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionNonSteam>Pošto je ovo kopija bez DRM-a, igricu možete dva puta instalirati u dva različita foldera, kako biste mogli igrati i stare i nove verzije.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>Ako želite da nastavite sa starom verzijom, možete to učiniti preko Steam-ove "Betas" funkcije.\n\n  1. U Steam biblioteci kliknite desnim klikom na RimWorld.\n  2. Odaberite "Properties".\n  3. Kliknite na Betas tab.\n  4. U padajućem meniju izaberite verziju koju želite.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
-  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsDialogTitle>Povraćeno nakon nekompatibilnih ili oštećenih modova</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Izgleda da su neki od aktivnih modova izazivali greške.\n\nBili su nekompatibilni međusobno, napravljeni su za različite verzije RimWorld-a, ili su bili oštećeni.\n\nSvi modovi su onemogućeni i mogu se aktivirati u dijalogu za modove.</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
-  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
-  <ErrorWhileLoadingAssets>An error occurred while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
-  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
-  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
-  <ErrorWhileGeneratingMap>An error occurred while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
-  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
-  <ErrorWhileLoadingMap>An error occurred while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingAssetsTitle>Greška prilikom učitavanja podataka</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Greška se desila prilikom učitavanja podataka u igri. Pogledajte zapis greške za više informacija.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>Igra je pokrenuta sa prilagođenim modovima - oni mogu, ali me moraju izazvati takve probleme.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Greška prilikom pravljenja mape</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Greška se desila prilikom pravljenja nove mape. Pogledajte zapis greške za više informacija.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Greška prilikom učitavanja mape</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Greška se desila prilikom učitavanja mape. Pogledajte zapis greške za više informacija.</ErrorWhileLoadingMap>
   
   <!-- Unloaded mod with an assembly -->
-  <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
-  <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
-  <Restarting>Restarting</Restarting>
+  <ModsChanged>Lista modova je izmenjena. Igra će se sada automatski restartovati.</ModsChanged>
+  <FailedToRestart>Prilikom restartovanja igre nešto nije bilo u redu. Igra ne može potpuno učitati promenjen kod deaktiviranih modova, pa taj kod i dalje može biti aktivan.\n\nPreporučljivo je da izađete iz igre i restartujete je kako bi svi modovi bili ažurirani.</FailedToRestart>
+  <Restarting>Restartovanje</Restarting>
   
   <!-- Missing Steam -->
-  <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>Steam API nije mogao da se inicijalizuje. Mogući razlozi:\n\n-Steam nije pokrenut.\n-Pokretanje izvan Steam-a bez steam_appid.txt fajla.\n-Pokretanje sa privilegijama koje se razlikuju od Steam klijenta (npr. "kao administrator").\n\nU većini slučajeva će ponovo pokretanje vašeg računara rešiti problem.\n\nI dalje možete igrati, ali Steam statistika neće biti registrovana i neće vam biti dostupne Steam funkcije.</SteamClientMissing>
   
   <!-- Long events -->
   <InitializingInterface>Initializing interface</InitializingInterface>
