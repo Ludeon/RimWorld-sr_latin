@@ -35,124 +35,124 @@
   <SteamClientMissing>Steam API nije mogao da se inicijalizuje. Mogući razlozi:\n\n-Steam nije pokrenut.\n-Pokretanje izvan Steam-a bez steam_appid.txt fajla.\n-Pokretanje sa privilegijama koje se razlikuju od Steam klijenta (npr. "kao administrator").\n\nU većini slučajeva će ponovo pokretanje vašeg računara rešiti problem.\n\nI dalje možete igrati, ali Steam statistika neće biti registrovana i neće vam biti dostupne Steam funkcije.</SteamClientMissing>
   
   <!-- Long events -->
-  <InitializingInterface>Initializing interface</InitializingInterface>
-  <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
-  <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
-  <LoadingDefs>Loading defs</LoadingDefs>
-  <LoadingAssets>Loading assets</LoadingAssets>
-  <Initializing>Initializing</Initializing>
-  <LoadingWorld>Loading world</LoadingWorld>
-  <LoadingMap>Loading map</LoadingMap>
-  <InitializingGame>Initializing game</InitializingGame>
-  <SpawningAllThings>Spawning things</SpawningAllThings>
-  <SpawningColonists>Spawning colonists</SpawningColonists>
+  <InitializingInterface>Inicijalizacija interfejsa</InitializingInterface>
+  <UnloadingUnusedAssets>Rasterećenje od neiskorišćenih podataka</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Učitavanje svih aktivnih modova</LoadingAllActiveMods>
+  <LoadingDefs>Učitavanje defova</LoadingDefs>
+  <LoadingAssets>Učitavanje podataka</LoadingAssets>
+  <Initializing>Inicijalizacija</Initializing>
+  <LoadingWorld>Učitavanje sveta</LoadingWorld>
+  <LoadingMap>Učitavanje mape</LoadingMap>
+  <InitializingGame>Inicijalizacija igre</InitializingGame>
+  <SpawningAllThings>Stvaranje stvari</SpawningAllThings>
+  <SpawningColonists>Stvaranje kolonista</SpawningColonists>
   
   <!-- Save/load -->
-  <SaveGameButton>Save</SaveGameButton>
-  <LoadGameButton>Load</LoadGameButton>
-  <OverwriteButton>Overwrite</OverwriteButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
-  <SavedAs>Saved as {0}.</SavedAs>
-  <NeedAName>Please enter a name.</NeedAName>
-  <LoadingLongEvent>Loading</LoadingLongEvent>
-  <SavingLongEvent>Saving</SavingLongEvent>
-  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
-  <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
-  <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
-  <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
-  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
-  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information.</ProblemSavingFile>
-  <LoadAnyway>Load anyway</LoadAnyway>
-  <ChangeLoadedMods>Load mod list from save</ChangeLoadedMods>
-  <MissingMods>Some mods are unavailable, and need to be installed</MissingMods>
-  <OfficialContent>Official content</OfficialContent>
-  <ContentActive>Active</ContentActive>
-  <ContentInstalledButNotActive>Installed, but not active</ContentInstalledButNotActive>
-  <ContentNotInstalled>Not installed</ContentNotInstalled>
+  <SaveGameButton>Sačuvaj</SaveGameButton>
+  <LoadGameButton>Učitaj</LoadGameButton>
+  <OverwriteButton>Piši preko</OverwriteButton>
+  <ConfirmDelete>Stvarno želite obrisati {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Obrišite ovu sačuvanu igru.</DeleteThisSavegame>
+  <SavedAs>Sačuvano kao {0}.</SavedAs>
+  <NeedAName>Molimo unesite ime.</NeedAName>
+  <LoadingLongEvent>Učitavanje</LoadingLongEvent>
+  <SavingLongEvent>Čuvanje</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(Trajna smrt)</PermadeathModeSaveSuffix>
+  <SaveIsFromDifferentGameVersion>Pokrenuta je verzija {0}, ali sačuvani podaci su iz verzije {1}, koja je potpuno drugačija od trenutne.\n\nPokušaj da se učitaju podaci verovatno neće uspeti.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>Pokrenuta je verzija {0}, ali sačuvani podaci su iz verzije {1}, koja je drugačija verzija.\n\nPokušaj da se učitaju podaci će verovatno uspeti.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Sačuvani podaci su sačuvani u verziji igre i trebalo bi da rade bez problema.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Sačuvani su podaci u nepoznatom formatu i skoro sigurno neće biti učitani kako treba.</SaveIsUnknownFormat>
+  <ProblemSavingFile>Postojao je problem prilikom čuvanja fajla {0}:\n\n{1}\n\nPogledajte zapis greške za više informacija.</ProblemSavingFile>
+  <LoadAnyway>Svakako učitaj</LoadAnyway>
+  <ChangeLoadedMods>Učitaj listu sačuvanih modova</ChangeLoadedMods>
+  <MissingMods>Neki modovi nisu dostupni, pa se moraju instalirati</MissingMods>
+  <OfficialContent>Zvaničan sadržaj</OfficialContent>
+  <ContentActive>Aktivno</ContentActive>
+  <ContentInstalledButNotActive>Instalirano, ali nije aktivno</ContentInstalledButNotActive>
+  <ContentNotInstalled>Nije instalirano</ContentNotInstalled>
   
   <!-- Player faction naming -->
-  <NamePlayerFactionMessage>Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
-  <PlayerFactionGainsName>Your faction is now known as {0}.</PlayerFactionGainsName>
-  <PlayerFactionNameIsInvalid>That name isn't valid.</PlayerFactionNameIsInvalid>
+  <NamePlayerFactionMessage>Pošto deluje da ćete biti dugo ovde, {0} misli da biste trebali dati ime vašoj zajednici. Kako bi trebala vaša zajednica da se zove?</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>Vaša zajednica nije poznata kao {0}.</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>To ime nije validno.</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
-  <NamePlayerFactionBaseMessage>{0} thinks that you should give this settlement a name. What should the local settlement be called?</NamePlayerFactionBaseMessage>
-  <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
-  <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
+  <NamePlayerFactionBaseMessage>{0} misli da biste ovom naselju trebali dati ime. Kako bi trebalo lokalno naselje da se zove?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>Ova zajednica nije poznata kao {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>To ime nije validno.</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} also thinks that you should give this settlement a name. What should this local settlement be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
-  <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} takođe misli da biste ovom naselju trebali dati ime. Kako bi trebalo lokalno naselje da se zove?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>Vaše naselje nije poznato kao {0} i ova zajednica nije poznata kao {1}.</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
-  <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
-  <NameIsInUse>Name is already in use.</NameIsInUse>
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
+  <NameIsInvalid>Molimo unesite validno ime.</NameIsInvalid>
+  <NameIsInUse>Ime je već u upotrebi.</NameIsInUse>
+  <ZoneGainsName>Zona se sada zove {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
-  <PawnGainsName>This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}.</PawnGainsName>
-  <AnimalGainsName>The animal's name is now {0}.</AnimalGainsName>
+  <PawnGainsName>Nadimak ove osobe je {0}. {PAWN_possessive} naslov je {PAWN_title}.</PawnGainsName>
+  <AnimalGainsName>Životinja se sada zove {0}.</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
-  <VersionMismatch>Version mismatch</VersionMismatch>
-  <SaveGameIncompatibleWarningText>This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes.</SaveGameIncompatibleWarningText>
-  <WorldFileVersionMismatch>World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch.</WorldFileVersionMismatch>
-  <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
-  <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
-  <ModsMismatchWarningText>This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1}</ModsMismatchWarningText>
+  <VersionMismatch>Neusklađenost verzija</VersionMismatch>
+  <SaveGameIncompatibleWarningText>Ova igra je sačuvana u verziji {0}\nPokrenuta je verzija {1}\n\nUčitavanje ove igre može izazvati greške i pad programa.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>Svet je generisan u verziji {0}\nPokrenuta je verzija {1}\n\nUčitavanje ovog sveta može izazvati greške i pad programa. Trebalo bi da generišete novi svet iz početka.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>Ovaj fajl je sačuvan sa verzijom {0}\nPokrenuta je verzija {1}\n\nUčitavanje ovog fajla može izazvati greške i pad programa.</FileIncompatibleWarning>
+  <ModsMismatchWarningTitle>Neusklađenost modova</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Ovaj fajl je sačuvan sa modovima koji se razlikuju od aktivnih modova koji su trenutno pokrenuti. U zavisnosti od toga šta modovi rade, ovo može, ali ne mora izazvati probleme.\n\nFajl je sačuvan sa (u ovom redosledu):\n\n{0}\n\nPokrenuto je (u ovom redosledu):\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Keep</ResolutionKeep>
-  <ResolutionRevert>Revert</ResolutionRevert>
+  <ConfirmResolutionChange>Promenili ste podešavanja ekrana. Da li nova podešavanja rade dobro?\n\nAutomatsko vraćanje za {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Zadrži</ResolutionKeep>
+  <ResolutionRevert>Povrati</ResolutionRevert>
 
   <!-- Confirm permanently disable dev mode -->
-  <ConfirmPermanentlyDisableDevMode>Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how.</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>Da li stvarno želite da trajno onemogućite mod za developere na ovom kompjuteru?\n\nOva opcija je za one koji žele potpuno iskustvo igranja bez iskušenja korišćenja oruđa developera za dobijanje prednosti u igri.\n\nMod za developere se može ponovo uključiti, ali to zahteva ručnu izmenu fajlova za konfiguraciju. Moraćete na internetu naći način da to uradite.</ConfirmPermanentlyDisableDevMode>
   
   <!-- Advanced game start options -->
-  <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
-  <MapSize>Map size</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
-  <MapSizeSmall>Small</MapSizeSmall>
-  <MapSizeMedium>Medium</MapSizeMedium>
-  <MapSizeLarge>Large</MapSizeLarge>
-  <MapSizeExtreme>Extreme (test)</MapSizeExtreme>
-  <MapStartSeason>Starting season</MapStartSeason>
-  <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
-  <Notice>Notice</Notice>
+  <MapTemperatureDangerWarning>Upozorenje: Sletećete u zamrznutu okolinu. Preživljavanje može biti teško, pa čak i nemoguće. Ako ne želite ovako ekstremne uslove, izaberite drugu lokaciju ili godišnje doba.</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>Igra je dizajnirana za igranje na mapama srednje veličine. Ovakve veličine omogućavaju dosta prostora!\n\nVeće mape ne samo što pogoršavaju performanse, već i uništavaju dizajn same igre. AI će postavljati glupa pitanja, a igra će na mnogo načina biti nebalansirana. Ove veličline su tradicionalno uključene zbog testiranja. Molimo ne koristite ih bez posebnog razloga.</MapSizePerformanceWarning>
+  <MapSize>Veličina mape</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} ćelija)</MapSizeDesc>
+  <MapSizeSmall>Malo</MapSizeSmall>
+  <MapSizeMedium>Srednje</MapSizeMedium>
+  <MapSizeLarge>Veliko</MapSizeLarge>
+  <MapSizeExtreme>Ekstremno (test)</MapSizeExtreme>
+  <MapStartSeason>Početno godišnje doba</MapStartSeason>
+  <MapStartSeasonDefault>Automatsko</MapStartSeasonDefault>
+  <Notice>Napomena</Notice>
 
   <!-- Bill config -->
-  <Suspended>Suspended</Suspended>
-  <NotSuspended>Not suspended</NotSuspended>
-  <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
-  <RepeatCount>Repeat:</RepeatCount>
-  <Forever>Forever</Forever>
-  <Details>Details</Details>
-  <IngredientSearchRadius>Ingredient radius</IngredientSearchRadius>
-  <CurrentlyHave>Currently have</CurrentlyHave>
-  <CountingProducts>Counting</CountingProducts>
-  <Infinite>Infinite</Infinite>
-  <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
-  <IncompatibleLower>incompatible</IncompatibleLower>
-  <AnyWorker>Any worker</AnyWorker>
-  <Unlimited>Unlimited</Unlimited>
+  <Suspended>Suspendovano</Suspended>
+  <NotSuspended>Nije suspendovano</NotSuspended>
+  <SuspendedAllCaps>SUSPENDOVANO</SuspendedAllCaps>
+  <RepeatCount>Ponovi:</RepeatCount>
+  <Forever>Zauvek</Forever>
+  <Details>Detalji</Details>
+  <IngredientSearchRadius>Prečnik sastojaka</IngredientSearchRadius>
+  <CurrentlyHave>Trenutno imate</CurrentlyHave>
+  <CountingProducts>Brojanje</CountingProducts>
+  <Infinite>Beskonačno</Infinite>
+  <AllowedSkillRange>Dozvoljeno je {0} veština:</AllowedSkillRange>
+  <IncompatibleLower>nekompatibilno</IncompatibleLower>
+  <AnyWorker>Bilo koji radnik</AnyWorker>
+  <Unlimited>Neograničeno</Unlimited>
   
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
-  <WorkAmount>Work amount</WorkAmount>
-  <MinimumSkills>Minimum skills:</MinimumSkills>
-  <BillRequires>Requires {0} {1}</BillRequires>
-  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
-  <BillRequiresMayVary>Note: Small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
-  <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual.</ThisIsSmallVolume>
-  <UsableIngredients>ingredients</UsableIngredients>
-  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
+  <RecipeCannotHaveTargetCount>(Ovaj recept ne može imati ciljni broj proizvoda, pošto ima više ili nepredvidivo mnogo proizvoda.)</RecipeCannotHaveTargetCount>
+  <WorkAmount>Količina rada</WorkAmount>
+  <MinimumSkills>Minimalne veštine:</MinimumSkills>
+  <BillRequires>Potrebno {0} {1}</BillRequires>
+  <BillRequiresNutrition>Potrebno {0} hrane</BillRequiresNutrition>
+  <BillRequiresMayVary>Napomena: Sastojcima malih zapremina, poput zlata, potrebno je {0}x više.</BillRequiresMayVary>
+  <ThisIsSmallVolume>Ovo je sastojak male zapremine. Ovo znači da je svaka 'jedinica' samo 1/{0} sastojka normalne zapremine. Da bi se ispunio zahtev sastojka, morate dodati {0}x više nego uobičajeno.</ThisIsSmallVolume>
+  <UsableIngredients>sastojci</UsableIngredients>
+  <BillRepeatTargetCountShort>Za {0}</BillRepeatTargetCountShort>
 
-  <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
-  <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
-  <Paused>Paused</Paused>
-  <Unpause>Unpause</Unpause>
+  <PauseWhenSatisfied>Pauziraj kad bude zadovoljeno</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>Otpauziraj na</UnpauseWhenYouHave>
+  <Paused>Pauzirano</Paused>
+  <Unpause>Otpauzirano</Unpause>
 
   <IncludeEquipped>Count equipped</IncludeEquipped>
   <IncludeTainted>Count tainted</IncludeTainted>
